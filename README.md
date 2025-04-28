@@ -2,7 +2,7 @@ I will be maintaining and expanding this as time allows, for professional projec
 
 - Python (And Flask - Ongoing)
 - Kubernetes (On-going)
-- Tensorflow (On-going)
+- Pytorch (On-going)
 - AWS
 - GCP
 - Docker
