@@ -1,4 +1,4 @@
-I will be maintaining as time allows, for professional projects I have completed, and projects that I will be starting. Some will be on-going based on ideas that I have, and will continue to grow as I test and develop them. They will be encompassing the following tech stack:
+I will be maintaining and expanding this as time allows, for professional projects I have completed, and projects that I will be starting. Some will be on-going based on ideas that I have, and will continue to grow as I test and develop them. They will be encompassing the following tech stack:
 
 - Python (And Flask - Ongoing)
 - Kubernetes (On-going)
