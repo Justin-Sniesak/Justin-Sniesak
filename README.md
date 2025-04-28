@@ -1,1 +1,17 @@
-This is my GitHub I will be maintaining as time allows, both for projects I have completed, and projects that I will be starting. Most will be not very lengthy, but some will be on-going based on some ideas I have, and will continue to grow as I test ideas I have and confirm they work. They will be encompassing Python (And Flask - Ongoing), AWS, Kubernetes (On-going), Docker, ArgoCD, Datadog, Promethius, Linux, Jenkins, Tensorflow (On-going), Ansible, Terraform and anything else I start digging into. I love learning, K8, containers, and both writing and debuggingcode, so I will be building this out as time allows going forward. Thanks for checking this out, and come back regularly as I will be as active as I am able to, and will be growing things as I am able to.
+I will be maintaining as time allows, for professional projects I have completed, and projects that I will be starting. Some will be on-going based on ideas that I have, and will continue to grow as I test and develop them. They will be encompassing the following tech stack:
+
+- Python (And Flask - Ongoing)
+- Kubernetes (On-going)
+- Tensorflow (On-going)
+- AWS
+- GCP
+- Docker
+- ArgoCD
+- Datadog
+- Promethius
+- Linux
+- Jenkins
+- Ansible
+- Terraform
+
+I greatly enjoy learning and always expanding my skills, so this list may expand over time. At this time I am currently pursuing my next oppertunity, specifically as a DevOps Engineer, Cloud Engineer, Senior Systems Engineer or a Senior Site Reliability Engineer, so the projects I have been working on and am planning on starting in the near term will be in support of those four roles. Thank you for visiting my GitHub, and please feel free to follow and check back often as I have multiple projects I look forward to working and sharing.
