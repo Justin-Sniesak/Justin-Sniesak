@@ -1,3 +1,1 @@
-I will be maintaining and expanding this as time allows, for projects I have completed, and projects that I will be starting. Some will be on-going based on ideas that I have, and will continue to grow as I test and develop them. I will be using this primarily as a way to manage and track projects I am working on, and they will be tied to training I am doing.
-
-I greatly enjoy learning and always expanding my skills, so my repos will expand over time. Thank you for visiting my GitHub, and please feel free to follow and check back often as I have multiple projects I look forward to working and sharing. My main focus is GCP, Python, Cloud DevOps, AI and ultimatly ML DevOps.
+Thank you for visiting my GitHub. My focus is on GCP, K8 and Go. Some Terraform as applicable. My pinned repos are for the tech I am actively working on upskilling, creating and levelling up in. Please see the applicable readme.md files for details. 
