@@ -19,5 +19,6 @@ This is in addition to maintaining my current certifications:
 Remaining To-Do for GitHub prior to starting the above skill track:
 1. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
 2. Create Go Repo
-3. Make Linked Post sharing new project/goal and hashtag GCP, K8, Go
-4. Finish Udacity GCP course - upload and annotate all
+3. Fix K8 screenshot
+4. Make Linked Post sharing new project/goal and hashtag GCP, K8, Go
+5. Finish Udacity GCP course - upload and annotate all
