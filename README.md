@@ -14,4 +14,10 @@ This is in addition to maintaining my current certifications:
 - Security+, CE
 - Microsoft Certified: Azure Fundamentals
 - Terraform Associate
-- AWS CCP 
+- AWS CCP
+
+Remaining To-Do for GitHub prior to starting the above skill track:
+1. Create folders by task and service for all screen captures, move all images and update pointers, confirm everything looks good
+2. Create Go Repo
+3. Make Linked Post sharing new project/goal and hashtag GCP, K8, Go
+4. Finish Udacity GCP course - upload and annotate all
