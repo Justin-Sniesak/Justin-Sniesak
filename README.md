@@ -1,4 +1,4 @@
-Thank you for visiting my GitHub. My focus is on GCP, K8 and Go. Some Terraform as applicable. My pinned repos are for the tech I am actively working on upskilling, creating and levelling up in. Please see the applicable readme.md files for details, screencaptures and specifics. 
+Thank you for visiting my GitHub. My focus is on GCP, K8 and Go. Some Terraform as applicable. My pinned repos are for the tech I am actively working on upskilling, creating and leveling up in. Please see the applicable readme.md files for details, screencaptures and specifics. 
 
 As I have been working through the Udacity GCP Fundamentals course I am finishing up, I have enjoyed the labs and learning, especially using GKE and Kubernetes, more then any tech I have touched recently. The level of engagement and intrest I have enjoyed while working through this course has inspired me to go all in on the following technologies for my career going forward: GCP, Kubernetes, and Go - Specifically for Cloud DevSecOps or Platform Engineering roles.
 
