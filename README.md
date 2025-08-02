@@ -22,9 +22,9 @@ This is in addition to maintaining my current certifications:
 - AWS CCP
 
 Remaining To-Do for GitHub prior to starting the above skill track:
-1. Create Go Repo
+1. Create Go & SQL Repos
 2. Change all GCP image formats from PNG to JPG confirm no errors; confirm universal formating: Name 1-X
 3. Change GitHub profile picture
 4. Finish Udacity GCP course 
-5. Make Linked Post sharing new course and project/goals; hashtag GCP, K8, Go
+5. Make Linked Post sharing new course and project/goals; hashtag GCP, K8, Go, SQL
 
