@@ -4,10 +4,10 @@ As I have been working through the Udacity GCP Fundamentals course I am finishin
 
 As such, I am seetting a highly ambitious goal for myself to level up my career more then ever before. I am going to obtain the below certifications, complete every single lab - proving hand-on proficiency and subject matter expertise through professionally well documented repos, in the following timeframe. One of the reasons I am calling this timeline out is this sets specific chronological deadlines I would like to adhere to, which increases the liklihood of completing these goals within the timeframe I would like. I look forward to this next year, and the technical skill advancement that will come from obtaining the following:
 
-- GCP Cloud Digital Leader | Time to Complete: 7H15M - (1) Month | Deliverable Date: 08312025 
-- SQL | Time to Complete: 42H - (3) Months | Deliverable Date: 11302025 
-- KCNA | Time to Complete: (1) Month | Deliverable Date: 12312025
-- Go Advanced Proficiency/Produce well documented and production ready code: | Time to Complete: (2) Months | Deliverable Date: 02282026
+- GCP Cloud Digital Leader | Time to Complete: 7H15M - (1) Month | Deliverable Date: 08312025
+- Go Advanced Proficiency/Produce well documented and production ready code: | Time to Complete: (2) Months | Deliverable Date: 10312025
+- KCNA | Time to Complete: (1) Month | Deliverable Date: 11302025
+- SQL | Time to Complete: 42H - (3) Months | Deliverable Date: 02282025
 - GCP ACE | Time to Complete: (6) Months | Deliverable Date: 08312026
 - CKA | Time to Complete: (3) Months | Deliverable Date: 11302026
 - GCP PCA | Time to Complete: (4) Months | Deliverable Date: 03312027
