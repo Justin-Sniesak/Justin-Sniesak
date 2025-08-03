@@ -1,17 +1,10 @@
-Thank you for visiting my GitHub. My focus is on GCP, K8 and Go. Some Terraform as applicable. My pinned repos are for the tech I am actively working on upskilling, creating and leveling up in. Please see the applicable readme.md files for details, screencaptures and specifics. 
+Thank you for visiting my GitHub. My focus is on GCP, K8 and Python. Some Terraform, Puppet, Grafana, SQL, and of course, keeping up with any changes in the RHEL space. My pinned repos are for the tech I am actively working on upskilling and maintaining, building in, and leveling up. Please see the applicable readme.md files for details, screencaptures and any other applicable specifics. 
 
-As I have been working through the Udacity GCP Fundamentals course I am finishing up, I have enjoyed the labs and learning, especially using GKE and Kubernetes, more then any tech I have touched recently. The level of engagement and intrest I have enjoyed while working through this course has inspired me to go all in on the following technologies for my career going forward: GCP, Kubernetes, SQL and Go - Specifically for a Principal Cloud Architect or Staff Platform Engineering role.
+As I have been working through the Udacity GCP Fundamentals course I am finishing up, I have enjoyed the labs and learning, especially using GKE and Kubernetes, more then any tech I have touched recently. The level of engagement and intrest I have enjoyed while working through this course has inspired me to go all in on the above technologies for this next stage in my my career going forward - Specifically for a Staff Platform Engineering role.
 
-As such, I am seetting a highly ambitious goal for myself to level up my career more then ever before. I am going to obtain the below certifications, complete every single lab - proving hand-on proficiency and subject matter expertise through professionally well documented repos, in the following timeframe. One of the reasons I am calling this timeline out is this sets specific chronological deadlines I would like to adhere to, which increases the liklihood of completing these goals within the timeframe I would like. I look forward to this next year, and the technical skill advancement that will come from obtaining the following:
+As such, I am setting a more ambitious goal for myself to level up my career more then I ever have in the past before. I am going to obtain the below certifications, and complete the following courses - proving hand-on proficiency and subject matter expertise through professionally well documented repos, in the following timeframe. One of the reasons I am calling this timeline out is this sets specific chronological deadlines I would like to adhere to, which increases the liklihood of completing these goals within the timeframe I have set. I look forward to the next two years, and the technical advancement that will come from obtaining the following:
 
-- GCP Cloud Digital Leader | Time to Complete: (1) Month | Deliverable Date: 09152025
-- Go Advanced Proficiency/Produce well documented and production ready code: | Time to Complete: (2) Months | Deliverable Date: 11152025
-- KCNA | Time to Complete: (1) Month | Deliverable Date: 12152025
-- SQL | Time to Complete: 42H - (3) Months | Deliverable Date: 03152026
-- GCP ACE | Time to Complete: (6) Months | Deliverable Date: 09152026
-- CKA | Time to Complete: (3) Months | Deliverable Date: 12152026
-- GCP PCA | Time to Complete: (4) Months | Deliverable Date: 04152027
-- CKS: | Time to Complete: (2) Months | Deliverable Date: 06152027
+
 
 This is in addition to maintaining my current certifications:
 
@@ -22,9 +15,10 @@ This is in addition to maintaining my current certifications:
 - AWS CCP
 
 Remaining To-Do for GitHub prior to starting the above skill track:
-1. Create Go & SQL Repos
-2. Change all GCP image formats from PNG to JPG confirm no errors; confirm universal formating: Name 1-X
-3. Change GitHub profile picture
-4. Finish Udacity GCP course 
-5. Make Linked Post sharing new course and project/goals; hashtag GCP, K8, Go, SQL
-
+1. Bookmark courses on all three sites and plugin TTC
+2. Pin Python Repo
+3. Change all GCP image formats from PNG to JPG confirm no errors; confirm universal formating: Name 1-X
+4. Change all Python image formats from PNG to JPG confirm no errors; confirm universal formating: Name 1-X
+5. Change GitHub profile picture
+6. Finish Udacity GCP course 
+7. Make Linked Post sharing new course and project/goals; hashtag GCP, K8, Go, SQL
