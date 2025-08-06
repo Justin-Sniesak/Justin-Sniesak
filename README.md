@@ -1,24 +1,16 @@
-Thank you for visiting my GitHub. My focus is on developing expertise and proficiency in both K8, Terraform and Python. Some Puppet, Grafana, and of course, keeping up with any changes in the RHEL space. While I do not intend on going forward in the cloud engineering space outside of maintaining all three cloud fundamentalcerts, I am certainly open to a conversation pertaining to that if the oppertunity arose. Until then, or unless that occurs, I intend on focusing on mastery of K8 and Python. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. I will be keeping my LinkedIn updated with my progress towards these goals, along with hands-on done here on my GitHub. 
+Thank you for visiting my GitHub. My focus is on developing expertise and proficiency in both K8 and Python along with GCP and Python in the AI space. While I do not intend on going forward in the cloud engineering space outside of maintaining all three cloud fundamentalcerts, I am certainly open to a conversation pertaining to that if the oppertunity arose. Until then, or unless that occurs, I intend on focusing on mastery of K8 and Python. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. I will be keeping my LinkedIn updated with my progress towards these goals, along with hands-on done here on my GitHub. As such, I am setting a highly ambitious goal for myself to level up my career more then I ever have in the past before, with the following certifications and courses.
 
-As I have been working through the Udacity GCP Fundamentals course I am finishing up, I have enjoyed the labs and learning, especially using GKE and Kubernetes, more then any tech I have touched recently. The level of engagement and intrest I have enjoyed while working through this course has inspired me to go all in on the above technologies for this next stage in my my career going forward - Specifically for either a Staff Platform engineering role.
-
-As such, I am setting a more ambitious goal for myself to level up my career more then I ever have in the past before. I am going to obtain the below certifications, and complete the following courses - proving hand-on proficiency and subject matter expertise through professionally well documented repos and code, in the following timeframe, as the below align with everything else time wise that I have going in my life. One of the reasons I am calling this timeline out is this sets specific chronological deadlines I will  strive to adhere to, which increases the liklihood of completing these goals in the desired timeframe. 
-
-1. **Google Cloud Digital Leader Cert (Finish Udacity & Official GCP) | (1) Month | Second Week September 2025 (Plugin renew July 2028)**
-2. Intro to Python I Course | (2) Months | Second Week November 2025
-3. **Pass KCNA | (1) Month | Second Week December 2025 (Plugin renew October 2027)**
-4. Intro to Python II Course | (1.5) Months | Fourth Week January 2026
-5. **Pass CKA | (2.5) Months | Second Week April 2026 (Plugin renew February 2028)**
-6. Intermidiate Python Course | (2.25 Months) | Third Week June 2026
-7. **Pass CKS | (1.5) Months | First Week August 2026 (Plugin renew June 2028)**
-8. Advanced Python Course | (1.5 Months) | Third Week September 2026
-9. RHEL9 Administration Course | (3) Weeks | Second Week October 2026
-10. Introduction to Neural Networks with PyTorch Course | (5 Weeks) | Third Week November 2026
-11. Puppet Certified Professional Course & Grafana Path | (3) Weeks | Second Week December 2026
-12. Introduction to Neural Networks with Tensorflow Course | (5 Weeks) | Third Week January 2027
-13. **Renew Terraform Associate: Work through patch for handson | (1.5 Months) | First Week March 2027 (Plugin renew December 2028)**
-14. **Renew CCNA | (1 Month) | First Week April 2027 (Plugin renew January 2030)**
-15. Plugin Next - Anything new RHEL, K8 & Tensorflow/PyTorch proficiency
+1. KodeKloud Engineer Course: Current - K8 & Git | Curriculum Order: Kubernetes/Git - Docker/Jenkins - Ansible/Terraform - Linux/Azure - AWS
+2. Intro to Python I Course | Udacity
+3. Pass KCNA | KodeKloud | Plugin Renewal
+4. Intro to Python II Course | Udacity
+5. Pass GCP CDL | Google Official Training | Plugin Renewal
+6. Intermidiate Python Course | Udacity
+7. Pass CKA | KodeKloud | Plugin Renewal
+8. Advanced Python Course | Udacity
+9. NVIDIA Generative AI LLMs Associate Course | KodeKloud
+10. AI Programing with Python | Udacity
+11. Pass CKS | KodeKloud | Plugin Renewal
 
 This is in addition to maintaining my current certifications:
 
