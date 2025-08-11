@@ -1,4 +1,4 @@
-Thank you for visiting my GitHub. My current and ongoing focus is on developing expertise and proficiency in Kubernetes, Go, Istio, Backstage and Prometheus. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. Pinned repos are the tech I am focusing in, if not pinned yet once I start working in it it will. Next step in my career is Platform Engineering. 
+Thank you for visiting my GitHub. My current and ongoing focus is on developing expertise and proficiency in Kubernetes, Go, Istio, Cilium, Backstage and Prometheus. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. Pinned repos are the tech I am focusing in, if not pinned yet once I start working in it it will. Next step in my career is Platform Engineering. 
 
 **Tech level up list | Remaining misc to-do**
 1. Annotate universal file format for all work | All Level 1 Tasks in this Order: Kubernetes - Git - Docker - Jenkins - Ansible - Terraform - Linux - Azure - AWS
@@ -7,11 +7,12 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 4. Install and configure Go | All Level 4 Tasks in this Order: Kubernetes - Git - Docker - Jenkins - Ansible - Terraform - Linux - Azure - AWS 
 5. KCNA Course & Cert (KodeKloud)
 6. PCA Course and Cert (Kodekloud)
-7. Go Full Course (Boot.Dev)
-8. CKA Course and Cert (Kodekloud)
-9. CBA Course and Cert (Kodekloud)
-10. CKS Course and Cert (KodeKloud)
-11. ICA Course and Cert (KodeKloud)
+7. CBA Course and Cert (Kodekloud)
+8. Go Full Course (Boot.Dev)
+9. CKA Course and Cert (Kodekloud)
+10. ICA Course and Cert (KodeKloud)
+11. CCA Course and Cert (KodeKloud)
+12. CKS Course and Cert (KodeKloud)
 
 **Current certs maintaining**
 - CCNA 
