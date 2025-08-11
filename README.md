@@ -6,11 +6,12 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 3. Install and configure Minikube locally | All Level 3 Tasks in this Order: Kubernetes - Git - Docker - Jenkins - Ansible - Terraform - Linux - Azure - AWS 
 4. Install and configure Go | All Level 4 Tasks in this Order: Kubernetes - Git - Docker - Jenkins - Ansible - Terraform - Linux - Azure - AWS 
 5. KCNA Course & Cert (KodeKloud)
-6. Go Full Course (Boot.Dev)
-7. ICA Course and Cert (KodeKloud)
-8. CBA Course and Cert (Kodekloud)
-9. CKA Course and Cert (Kodekloud)
-10. PCA Course and Cert (Kodekloud)
+6. PCA Course and Cert (Kodekloud)
+7. Go Full Course (Boot.Dev)
+8. CKA Course and Cert (Kodekloud)
+9. CBA Course and Cert (Kodekloud)
+10. CKS Course and Cert (KodeKloud)
+11. ICA Course and Cert (KodeKloud)
 
 **Current certs maintaining**
 - CCNA 
