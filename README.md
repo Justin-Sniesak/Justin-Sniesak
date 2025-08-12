@@ -5,7 +5,7 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 2. (Repo) PCA Course and Cert | 12 Hours + 1 Week | Done 9/18 - Schedule for 9/25
 3. (Repo) Go | 30 Hours | Done 10/30
 4. (Repo) CBA Course and Cert | 12 Hours + 1 Week | Done 11/13 - Schedule for 11/20
-5. CKA Course and Cert 
+5. (Repo) CKA Course/Killer.sh and Cert | 52 Hours + 1 Week | Done 1/24/26 - Schedule for 1/30/26
 6. (Repo) ICA Course and Cert 
 7. (Repo) CCA Course and Cert 
 8. CKS Course and Cert 
