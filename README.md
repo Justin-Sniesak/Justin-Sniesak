@@ -2,7 +2,7 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 
 **Tech level up list | Remaining misc to-do**
 1. (Repo & Install Minikube) KCNA | 14 Hours + 1 Week | Done 8/26 - Schedule for 9/3
-2. (Repo) PCA Course and Cert | 12 Hours + 1 Week | 
+2. (Repo) PCA Course and Cert | 12 Hours + 1 Week | Done 9/18 - Schedule for 9/25
 3. (Repo) Go 
 4. (Repo) CBA Course and Cert 
 5. CKA Course and Cert 
