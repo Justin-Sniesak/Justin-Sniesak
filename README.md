@@ -8,7 +8,7 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 5. (Repo) CKA Course/Killer.sh and Cert | 52 Hours + 1 Week | Done 1/24/26 - Schedule for 1/30/26
 6. (Repo) ICA Course and Cert | 15 Hours + 1 Week | Done 2/17/26 - Schedule for 2/24/26
 7. (Repo) CCA Course and Cert | 8 Hours + 1 Week | Done 3/5/26 - Schedule for 3/12/26
-8. CKS Course and Cert 
+8. (Repo) CKS Course and Cert | 30 Hours + 1 Week | Done 4/18/26 - Schedule for 4/24/26
 
 **Current certs maintaining**
 - CCNA 
