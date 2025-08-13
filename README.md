@@ -7,7 +7,7 @@ Thank you for visiting my GitHub. My current and ongoing focus is on developing 
 4. (Repo) CBA Course and Cert | 12 Hours + 1 Week | Done 11/13 - Schedule for 11/20
 5. (Repo) CKA Course/Killer.sh and Cert | 52 Hours + 1 Week | Done 1/24/26 - Schedule for 1/30/26
 6. (Repo) ICA Course and Cert | 15 Hours + 1 Week | Done 2/17/26 - Schedule for 2/24/26
-7. (Repo) CCA Course and Cert | 8 Hours + 1 Week | Done 3/5/26 - Scheduke for 3/12/26
+7. (Repo) CCA Course and Cert | 8 Hours + 1 Week | Done 3/5/26 - Schedule for 3/12/26
 8. CKS Course and Cert 
 
 **Current certs maintaining**
