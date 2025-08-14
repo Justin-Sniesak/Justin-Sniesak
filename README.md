@@ -1,14 +1,14 @@
-Thank you for visiting my GitHub. My current and ongoing focus is on developing expertise and proficiency in Kubernetes, Go, Istio, Cilium, Backstage and Prometheus. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. Pinned repos are the tech I am focusing in, if not pinned yet once I start working in it it will. Next step in my career is Platform Engineering. 
+Thank you for visiting my GitHub. My current and ongoing focus for this next stage of my career is on developing expertise and proficiency primarily in Kubernetes, Prometheus, Backstage, Go, Istio and Cilium, with a minor focus in GCP, Argo and Puppet. Please see the applicable readme.md files of each repo for details, screen captures and any other applicable specifics. Pinned repos are the tech/stack that I am currently focusing on, and activly preparing for the applicable cert. The next step in my career is a Platform Engineering role, with the ultimate career aspiration of Staff or Principal Engineer. Thank you again for visiting my GitHub, and if anything you see intrests you and you would be interested in connecting or discussing any of the below, I would love to speak with you!
 
 **Tech level up list | Remaining misc to-do**
-1. (Repo & Install Minikube) KCNA | 14 Hours + 1 Week | Done 8/26 - Schedule for 9/3
-2. (Repo) PCA Course and Cert | 12 Hours + 1 Week | Done 9/18 - Schedule for 9/25
-3. (Repo) Go | 30 Hours | Done 10/30
-4. (Repo) CBA Course and Cert | 12 Hours + 1 Week | Done 11/13 - Schedule for 11/20
-5. (Repo) CKA Course/Killer.sh and Cert | 52 Hours + 1 Week | Done 1/24/26 - Schedule for 1/30/26
-6. (Repo) ICA Course and Cert | 15 Hours + 1 Week | Done 2/17/26 - Schedule for 2/24/26
-7. (Repo) CCA Course and Cert | 8 Hours + 1 Week | Done 3/5/26 - Schedule for 3/12/26
-8. (Repo) CKS Course and Cert | 30 Hours + 1 Week | Done 4/18/26 - Schedule for 4/24/26
+1. KCNA
+2. (Repos) Puppet & PCA Course and Cert 
+3. (Repos) ArgoCD & Go 
+4. (Repos) GCP CDL & CBA 
+5. (Repo) AI K8 & CKA Course/Killer.sh 
+6. (Repo) ICA 
+7. (Repo) CCA 
+8. (Repo) CKS
 
 **Current certs maintaining**
 - CCNA 
