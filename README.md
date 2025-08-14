@@ -10,7 +10,7 @@ Thank you for visiting my GitHub. My current and ongoing focus for this next sta
 7. (Repo) CCA 
 8. (Repo) CKS
 
-**Current certs maintaining**
+**Current Certs**
 - CCNA 
 - Security+, CE 
 - Microsoft Certified: Azure Fundamentals 
