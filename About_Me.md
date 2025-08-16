@@ -14,8 +14,8 @@ If anything you see here is of interest and you would like to connect or discuss
 
 | Order | Certification / Project |
 |-------|------------------------|
-| 1     | KCNA / AKS (breadcrumb) |
-| 2     | PCA / GKE (breadcrumb) |
+| 1     | KCNA / AKS (course) |
+| 2     | PCA / GKE (course) |
 | 3     | CBA |
 | 4     | Go (projects) |
 | 5     | CKA |
