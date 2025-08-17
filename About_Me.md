@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub.  
 
-My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
+My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
 
 Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. My next career step is in a **Platform Engineering role**, with the ultimate aspiration of **Staff or Principal Engineer in Seattle**, as I am not interested in relocating.  
 
@@ -12,17 +12,28 @@ If anything you see here is of interest and you would like to connect or discuss
 
 ## Certification & Building Plan
 
-| Order | Certification / Project |
+| Order | Certification / Project | Phase 1 | L4
 |-------|------------------------|
-| 1     | KCNA / AKS (course) |
-| 2     | PCA / GKE (course) |
-| 3     | CBA |
-| 4     | Go (projects) |
-| 5     | CKA |
-| 6     | ICA |
-| 7     | CCA |
-| 8     | CKS |
+| 1     | KCNA (cert) 
+| 2     | GKE (course) 
+| 3     | Go (operator/production - beginner) 
+| 4     | AKS (course)
+| 4     | PCA (cert)
+| 5     | GitHub Actions (course)
 
+| Order | Certification / Project | Phase 2 | L5
+|-------|------------------------|
+| 1     | Go (operator/production - intermidiate) 
+| 2     | CKA (cert) 
+| 3     | ArgoCD (course)
+| 4     | CBA (cert)
+
+| Order | Certification / Project | Phase 3 | L6
+|-------|------------------------|
+| 1     | Go (operator/production - advanced) 
+| 2     | ICA (cert)
+| 3     | CCA (cert)
+| 4     | CKS (cert)
 ---
 
 ## Current Certifications
