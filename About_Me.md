@@ -12,8 +12,7 @@ If anything you see here is of interest and you would like to connect or discuss
 
 ## Certification & Building Plan
 
-| Order | Certification / Project | Phase 1 | L4
-|-------|------------------------|
+**| Order | Certification / Project | Phase 1 | L4**
 
 | 1     | KCNA (cert) 
 
@@ -27,20 +26,25 @@ If anything you see here is of interest and you would like to connect or discuss
 
 | 6     | GitHub Actions (course)
 
-| Order | Certification / Project | Phase 2 | L5
-|-------|------------------------|
+**| Order | Certification / Project | Phase 2 | L5**
+
 | 1     | Go (operator/production - intermidiate) 
+
 | 2     | CKA (cert) 
+
 | 3     | ArgoCD (course)
+
 | 4     | CBA (cert)
 
-| Order | Certification / Project | Phase 3 | L6
-|-------|------------------------|
-| 1     | Go (operator/production - advanced) 
-| 2     | ICA (cert)
-| 3     | CCA (cert)
-| 4     | CKS (cert)
+**| Order | Certification / Project | Phase 3 | L6**
 
+| 1     | Go (operator/production - advanced) 
+
+| 2     | ICA (cert)
+
+| 3     | CCA (cert)
+
+| 4     | CKS (cert)
 
 ## Current Certifications
 
