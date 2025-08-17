@@ -2,9 +2,9 @@
 
 Thank you for visiting my GitHub.  
 
-My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
+My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, AKS, ArgoCD, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
 
-Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. My next career step is in a **Platform Engineering role**, with the ultimate aspiration of **Staff or Principal Engineer in Seattle**, as I am not interested in relocating.  
+Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. My next career step is in a **Platform Engineering role**, with the ultimate aspiration of **Staff or Principal Engineer in Seattle**, as I am not interested in relocating. As I complete each of the below goals, I will remove from the below list, and my LinkedIn will be updated as applicable.
 
 If anything you see here is of interest and you would like to connect or discuss, I would love to speak with you.
 
@@ -14,12 +14,18 @@ If anything you see here is of interest and you would like to connect or discuss
 
 | Order | Certification / Project | Phase 1 | L4
 |-------|------------------------|
+
 | 1     | KCNA (cert) 
+
 | 2     | GKE (course) 
+
 | 3     | Go (operator/production - beginner) 
+
 | 4     | AKS (course)
-| 4     | PCA (cert)
-| 5     | GitHub Actions (course)
+
+| 5     | PCA (cert)
+
+| 6     | GitHub Actions (course)
 
 | Order | Certification / Project | Phase 2 | L5
 |-------|------------------------|
