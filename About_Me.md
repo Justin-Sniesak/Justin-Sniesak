@@ -34,7 +34,7 @@ If anything you see here is of interest and you would like to connect or discuss
 | 2     | ICA (cert)
 | 3     | CCA (cert)
 | 4     | CKS (cert)
----
+
 
 ## Current Certifications
 
