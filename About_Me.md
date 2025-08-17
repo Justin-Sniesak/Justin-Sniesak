@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub.  
 
-My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, AKS, ArgoCD, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
+My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, AKS, ArgoCD, Backstage, Go, Rust, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
 
 Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. My next career step is in a **Platform Engineering role**, with the ultimate aspiration of **Staff or Principal Engineer in Seattle**, as I am not interested in relocating. As I complete each of the below goals, I will remove from the below list, and my LinkedIn will be updated as applicable.
 
@@ -35,6 +35,8 @@ If anything you see here is of interest and you would like to connect or discuss
 | 3     | ArgoCD (course)
 
 | 4     | CBA (cert)
+
+| 5     | Rust (course)
 
 **| Order | Certification / Project | Phase 3 | L6**
 
