@@ -24,9 +24,9 @@ If anything you see here is of interest and you would like to connect or discuss
 
 | 4     | GCP Cloud Digital Leader (Cert)
 
-**Order | Certification / Project - Course | Phase 2**
+**Order | Certification / Project - Course | Details for project expansion | Phase 2**
 
-| 1     | PCA (Cert) 
+| 1     | PCA (Cert) | Hook cluster into dashboard then create daemonset to deploy the agent to all nodes in the cluster; configure automated alerting
 
 | 2     | Go (Intermidiate) 
 
