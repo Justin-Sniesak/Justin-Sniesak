@@ -2,11 +2,11 @@
 
 Thank you for visiting my GitHub.  
 
-My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Prometheus, GitHub Actions, GKE, AKS, ArgoCD, Backstage, Go, Rust, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
+My current and ongoing focus for this next stage of my career is developing expertise and proficiency primarily in **Kubernetes, Azure, Prometheus, GitHub Actions, AKS, AzureAI, Backstage, Go, Istio, and Cilium**. Please see the respective `README.md` files in each repository for details, screen captures, and other specifics.
 
-As an aside, I run all my own labs locally in my own environment. I prefer this as not only do I have to set them up myself, but when I break them I have to fix them, which is the best way to not only learn, but become proficient.
+As an aside, I run all my own labs locally in my own environment. I prefer this as not only do I have to set them up myself, but when I break them I have to fix them, which is the best way to become proficient.
 
-Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. My next career step is in a **Platform Engineering role**, with the ultimate aspiration of **Staff or Principal Engineer in Seattle**, as I am not interested in relocating. As I complete each of the below goals, I will remove from the below list, and my LinkedIn will be updated as applicable.
+Pinned repositories represent the **tech stack I am actively working on and preparing for the applicable certifications**. As I complete each of the below goals, I will remove from the below list, and my LinkedIn will be updated as applicable.
 
 If anything you see here is of interest and you would like to connect or discuss, I would love to speak with you.
 
@@ -14,41 +14,43 @@ If anything you see here is of interest and you would like to connect or discuss
 
 ## Certification & Building Plan
 
-**| Order | Certification / Project | Phase 1 | L4**
+**Order | Certification / Project - Course | Phase 1**
 
 | 1     | KCNA (cert) 
 
-| 2     | GKE (course) 
+| 2     | AKS (course) 
 
-| 3     | Go (operator/production - beginner) 
+| 3     | Go (Beginner) 
 
-| 4     | AKS (course)
+| 4     | Azure AI Fundamentals (Cert)
 
-| 5     | PCA (cert)
+**Order | Certification / Project - Course | Phase 2**
 
-| 6     | GitHub Actions (course)
+| 1     | PCA (Cert) 
 
-**| Order | Certification / Project | Phase 2 | L5**
+| 2     | Go (Intermidiate) 
 
-| 1     | Go (operator/production - intermidiate) 
+| 3     | GitHub Actions (Course)
 
-| 2     | CKA (cert) 
+| 5     | Azure Admin (Cert)
 
-| 3     | ArgoCD (course)
+**| Order | Certification / Project - Course | Phase 3**
 
-| 4     | CBA (cert)
+| 1     | CKA (Cert)
 
-| 5     | Rust (course)
+| 2     | Go (Advanced)
 
-**| Order | Certification / Project | Phase 3 | L6**
+| 3     | Backstage Associate (Cert)
 
-| 1     | Go (operator/production - advanced) 
+| 4     | Azure AI Admin (Cert)
 
-| 2     | ICA (cert)
+**| Order | Certification / Project - Course | Phase 4**
 
-| 3     | CCA (cert)
+| 1     | Istio Associate (Cert)
 
-| 4     | CKS (cert)
+| 2     | Cillium Associate (Cert)
+
+| 3     | CKS (Cert)
 
 ## Current Certifications
 
