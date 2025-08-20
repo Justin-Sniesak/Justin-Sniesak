@@ -14,7 +14,7 @@ If anything you see here is of interest and you would like to connect or discuss
 
 ### Notes
 Earlier commits were not annotated due to a focus on uploading and documenting work completed while repos were being built.
-going forward as of 08202025, in additionto consistent documentation formating and tree structure, all commits will be annotated with what is being uploaded.
+going forward as of 08202025, in addition to consistent documentation formating and tree structure, all commits will be annotated with what is being uploaded.
 
 ## Certification & Building Plan
 
