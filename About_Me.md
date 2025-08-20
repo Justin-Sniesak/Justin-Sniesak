@@ -32,6 +32,8 @@ If anything you see here is of interest and you would like to connect or discuss
 
 | 3     | GitHub Actions (Course)
 
+| 4     | Argo Project Associate (CAPA - Cert)
+
 | 5     | GCP Associate Cloud Engineer (Cert)
 
 **| Order | Certification / Project - Course | Phase 3**
