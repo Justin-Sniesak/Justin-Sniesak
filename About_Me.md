@@ -20,27 +20,29 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 **Order | Certification / Project - Course | Phase 1**
 
-| 1     | KCNA (cert) 
-
-| 2     | GKE (course) 
-
-| 3     | Go (Beginner) 
-
-| 4     | GCP Cloud Digital Leader (Cert)
+| 1     | KCNA (cert) | CKA adjacent projects
 
 **Order | Certification / Project - Course | Details for project expansion | Phase 2**
 
-| 1     | PCA (Cert) | Hook cluster into dashboard then create daemonset to deploy the agent to all nodes in the cluster; configure automated alerting
+| 1     | GKE (course) 
 
-| 2     | Go (Intermidiate) 
+| 2     | Go (Beginner) 
 
-| 3     | GitHub Actions (Course)
+| 3     | GCP Cloud Digital Leader (Cert)
 
-| 4     | Argo Project Associate (CAPA - Cert)
+| 4     | GitHub Actions (Course) 
 
-| 5     | GCP Associate Cloud Engineer (Cert)
+**Order | Certification / Project - Course | Details for project expansion | Phase 3**
 
-**| Order | Certification / Project - Course | Phase 3**
+| 1     | PCA (Cert) | Hook cluster into dashboard then create daemonset to deploy the agent to all nodes in the cluster; configure automated alerting and setuo dashboards
+
+| 2     | Go (Intermidiate)
+
+| 3     | Argo Project Associate (CAPA - Cert)
+
+| 4     | GCP Associate Cloud Engineer (Cert)
+
+**| Order | Certification / Project - Course | Phase 4**
 
 | 1     | CKA (Cert)
 
@@ -48,7 +50,7 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 | 3     | Backstage Associate (Cert)
 
-**| Order | Certification / Project - Course | Phase 4**
+**| Order | Certification / Project - Course | Phase 5**
 
 | 1     | Istio Associate (Cert)
 
