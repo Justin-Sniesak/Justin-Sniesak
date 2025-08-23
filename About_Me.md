@@ -18,31 +18,31 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 ## Certification & Building Plan
 
-**(Phase 1) Certification | Project - Details**
+**(Phase 1) Certification or Course | Kubernetes Project Milestone | GCP Project Milestone**
 
-| 1     | KCNA (cert) | Install ProxMox Hypervisor
+| 1     | KCNA (cert) | Install ProxMox Hypervisor | Create and configure GCP account
 
-**(Phase 2) Certification | Project - Details**
+**(Phase 2) Certification or Course | Project - Details | GCP Project Milestone**
 
-| 1     | Go (Beginner) | Provision and configure (4) Alma Linux guests along with VSC
+| 1     | Go (Beginner) | Provision and configure (4) Alma Linux guests along with VSC | Provision VM, install Terraform and configure main.tf
 
-| 2     | GKE (Course) | Provision and configure master and (3) worker node Kubernetes cluster on guests
+| 2     | GKE (Course) | Provision and configure master and (3) worker node Kubernetes cluster on guests | Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
 
-| 3     | GCP Cloud Digital Leader (Cert) | Create, deploy and automate Go scripts
+| 3     | GCP Cloud Digital Leader (Cert) | Create, deploy and automate Go scripts | Configure DNS management for all VMs
 
-| 4     | GitHub Actions (Course) | Provision and configure containers for the following: Nginx, Prometheus, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB
+| 4     | GitHub Actions (Course) | Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB | Configure DNS 
 
-**Order | Certification | Project - Details | Phase 3**
+**(Phase 3) Certification or Course | Project - Details | GCP Project Milestone Phase 3**
 
-| 1     | PCA (Cert) | Build out and configure Grafana dashboard for cluster
+| 1     | PCA (Cert) | Build out and configure Grafana dashboard for cluster | Configure storage
 
-| 2     | Go (Intermidiate)
+| 2     | Go (Intermidiate) | N/A | Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
 
 | 3     | Argo Project Associate (CAPA - Cert)
 
 | 4     | GCP Associate Cloud Engineer (Cert)
 
-**| Order | Certification | Project - Details| Phase 4**
+**(Phase 4) Certification or Course**
 
 | 1     | CKA (Cert)
 
@@ -50,7 +50,7 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 | 3     | Backstage Associate (Cert)
 
-**| Order | Certification | Project - Details | Phase 5**
+**(Phase 5) Certification or Course**
 
 | 1     | Istio Associate (Cert)
 
