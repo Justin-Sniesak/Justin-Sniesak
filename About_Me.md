@@ -18,23 +18,23 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 ## Certification & Building Plan
 
-**Order | Certification / Project - Course | Phase 1**
+**(Phase 1) Certification | Project - Details**
 
-| 1     | KCNA (cert) | CKA adjacent projects
+| 1     | KCNA (cert) | Install ProxMox Hypervisor
 
-**Order | Certification / Project - Course | Details for project expansion | Phase 2**
+**(Phase 2) Certification | Project - Details**
 
-| 1     | GKE (course) 
+| 1     | Go (Beginner) | Provision and configure (4) Alma Linux guests along with VSC
 
-| 2     | Go (Beginner) 
+| 2     | GKE (Course) | Provision and configure master and (3) worker node Kubernetes cluster on guests
 
-| 3     | GCP Cloud Digital Leader (Cert)
+| 3     | GCP Cloud Digital Leader (Cert) | Create, deploy and automate Go scripts
 
-| 4     | GitHub Actions (Course) 
+| 4     | GitHub Actions (Course) | Provision and configure containers for the following: Nginx, Prometheus, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB
 
-**Order | Certification / Project - Course | Details for project expansion | Phase 3**
+**Order | Certification | Project - Details | Phase 3**
 
-| 1     | PCA (Cert) | Hook cluster into dashboard then create daemonset to deploy the agent to all nodes in the cluster; configure automated alerting and setuo dashboards
+| 1     | PCA (Cert) | Build out and configure Grafana dashboard for cluster
 
 | 2     | Go (Intermidiate)
 
@@ -42,7 +42,7 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 | 4     | GCP Associate Cloud Engineer (Cert)
 
-**| Order | Certification / Project - Course | Phase 4**
+**| Order | Certification | Project - Details| Phase 4**
 
 | 1     | CKA (Cert)
 
@@ -50,7 +50,7 @@ going forward as of 08202025, in addition to consistent documentation formating 
 
 | 3     | Backstage Associate (Cert)
 
-**| Order | Certification / Project - Course | Phase 5**
+**| Order | Certification | Project - Details | Phase 5**
 
 | 1     | Istio Associate (Cert)
 
