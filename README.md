@@ -46,16 +46,17 @@ Below is a snapshot of planned certifications, courses, and projects I am workin
 │   │   └── Kubernetes Cluster: Create, deploy and automate Go scripts
 │   │   └── GCP Infrastructure: Configure DNS management for all VMs
 │   ├── GitHub Actions (Course)
+│   │   └── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
+│   │   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
+│   ├── PCA
 │   │   └── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
 │   │   └── GCP Infrastructure: Configure Network Security rules
-│   ├── PCA
+│   ├── Go (Intermediate)
 │   │   └── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
 │   │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
-│   ├── Go (Intermediate)
+│   ├── CAPA
 │   │   └── Kubernetes Cluster: Configure, test and deploy external reachability
 │   │   └── GCP Infrastructure: Configure, test and deploy external reachability
-│   ├── CAPA
-│   │   └── TBD
 │   ├── GCP ACE
 │   │   └── TBD
 │   ├── CKA
