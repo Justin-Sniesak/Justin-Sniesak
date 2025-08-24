@@ -10,9 +10,9 @@ My career thus far has been focused on specializing in Linux (RHEL/Ubuntu), Virt
 - Senior System Administration
 - Infrastructure Engineering
 
-**Ideal roles:** SRE, Platform Engineer, or Cloud DevOps Engineer, L4 level.
-
 I currently reside in the Seattle metro area and absolutely love it here.
+
+**Ideal roles:** SRE, Platform Engineer, or Cloud DevOps Engineer, L4 level.
 
 **Primary technological focus:** Kubernetes, Go, GCP, Prometheus, GitHub Actions, Backstage, ArgoCD, Istio, Cilium
 
@@ -22,7 +22,8 @@ Please note, I run all my own labs locally in my own environment. I prefer this 
 
 Additionally, I am a huge proponent of organized, methodical documentation, and strive to have each and every repo I work in and build adhere to this standard.
 
-Thank you again for visiting my GitHub, and if any of this resonates with you, or you have any questions, I would love to connect and speak further, so please do not hesitate to reach out, either here, on LinkedIn, or via email. 
+Thank you again for visiting my GitHub, and if any of this resonates with you, or you have any questions, I would love to connect and speak further, so please do not hesitate to reach out, either here, on LinkedIn, or via email.
+
 ---
 
 ### Notes
