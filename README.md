@@ -33,41 +33,41 @@ Going forward, as of 08/20/2025, in addition to consistent documentation formatt
 Below is a snapshot of planned certifications, courses, and projects I am working on, or will be working on.
 
 ```
-│   ├── KCNA
-│   │   └── Kubernetes Cluster: Install ProxMox Hypervisor
-│   │   └── GCP Infrastructure: Create GCP Account
-│   ├── Go (Beginner)
-│   │   └── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
-│   │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
-│   ├── GKE (Course)
-│   │   └── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
-│   │   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
-│   ├── GCP Cloud Digital Leader
-│   │   └── Kubernetes Cluster: Create, deploy and automate Go scripts
-│   │   └── GCP Infrastructure: Configure DNS management for all VMs
-│   ├── GitHub Actions (Course)
-│   │   └── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
-│   │   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
-│   ├── PCA
-│   │   └── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
-│   │   └── GCP Infrastructure: Configure Network Security rules
-│   ├── Go (Intermediate)
-│   │   └── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
-│   │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
-│   ├── CAPA
-│   │   └── Kubernetes Cluster: Configure, test and deploy external reachability
-│   │   └── GCP Infrastructure: Configure, test and deploy external reachability
-│   ├── GCP ACE
-│   │   └── TBD
-│   ├── CKA
-│   │   └── TBD
-│   ├── Go (Advanced)
-│   │   └── TBD
-│   ├── CBA
-│   │   └── TBD
-│   ├── ICA
-│   │   └── TBD
-│   ├── CCA
-│   │   └── TBD
-│   ├── CKS
-│   │   └── TBD
+├── KCNA
+│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
+│   └── GCP Infrastructure: Create GCP Account
+├── Go (Beginner)
+│   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
+│   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
+├── GKE (Course)
+│   ├── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
+│   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
+├── GCP Cloud Digital Leader
+│   ├── Kubernetes Cluster: Create, deploy and automate Go scripts
+│   └── GCP Infrastructure: Configure DNS management for all VMs
+├── GitHub Actions (Course)
+│   ├── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
+│   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
+├── PCA
+│   ├── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
+│   └── GCP Infrastructure: Configure Network Security rules
+├── Go (Intermediate)
+│   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
+│   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
+├── CAPA
+│   ├── Kubernetes Cluster: Configure, test and deploy external reachability
+│   └── GCP Infrastructure: Configure, test and deploy external reachability
+├── GCP ACE
+│   └── TBD
+├── CKA
+│   └── TBD
+├── Go (Advanced)
+│   └── TBD
+├── CBA
+│   └── TBD
+├── ICA
+│   └── TBD
+├── CCA
+│   └── TBD
+├── CKS
+│   └── TBD
