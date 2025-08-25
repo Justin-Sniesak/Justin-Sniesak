@@ -30,16 +30,19 @@ Thank you again for visiting my GitHub, and if any of this resonates with you, o
 Earlier commits were not annotated due to a focus on uploading and documenting work completed while repos were being built. Additionally, I had not yet developed consistent formatting across my various repos. 
 Going forward, as of 08/20/2025, in addition to consistent documentation formatting and tree structure, all commits will be annotated with what is being uploaded.
 
-Below is a snapshot of planned certifications, courses, and projects I am working on, or will be working on.
+Below is a roadmap of planned certifications, courses, and projects I am or will be working on. I try to devote 10-15 hours a week to this so ideally this will all be completed in the next 15 months.
 
 ```
 ├── KCNA
+│   ├── Cleanup Docker repo
 │   ├── Kubernetes Cluster: Install ProxMox Hypervisor
 │   └── GCP Infrastructure: Create GCP Account
 ├── Go (Beginner)
+│   ├── Cleanup Kubernetes exercises repo
 │   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── GKE (Course)
+│   ├── Cleanup Python repo
 │   └── Misc JS project milestone
 ├── GCP Cloud Digital Leader
 │   ├── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
