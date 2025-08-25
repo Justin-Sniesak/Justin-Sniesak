@@ -40,25 +40,25 @@ Below is a snapshot of planned certifications, courses, and projects I am workin
 │   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── GKE (Course)
+│   └── Misc JS project milestone
+├── GCP Cloud Digital Leader
 │   ├── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
 │   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
-├── GCP Cloud Digital Leader
+├── GitHub Actions (Course)
 │   ├── Kubernetes Cluster: Create, deploy and automate Go scripts
 │   └── GCP Infrastructure: Configure DNS management for all VMs
-├── GitHub Actions (Course)
+├── PCA
 │   ├── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
 │   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
-├── PCA
+├── Go (Intermediate)
 │   ├── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
 │   └── GCP Infrastructure: Configure Network Security rules
-├── Go (Intermediate)
+├── CAPA
 │   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
 │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
-├── CAPA
+├── GCP ACE
 │   ├── Kubernetes Cluster: Configure, test and deploy external reachability
 │   └── GCP Infrastructure: Configure, test and deploy external reachability
-├── GCP ACE
-│   └── TBD
 ├── CKA
 │   └── TBD
 ├── Go (Advanced)
