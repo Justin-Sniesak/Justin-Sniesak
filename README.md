@@ -35,42 +35,40 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ```
 ├── KCNA
 │   ├── Cleanup Docker repo
-│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
-│   └── GCP Infrastructure: Create GCP Account
+│   └── Misc JS project milestone
 ├── Go (Beginner)
 │   ├── Cleanup Kubernetes exercises repo
+│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
+│   └── GCP Infrastructure: Create GCP Account
+├── CKA
+│   ├── Cleanup Python repo
 │   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
-├── GKE (Course)
-│   ├── Cleanup Python repo
-│   └── Misc JS project milestone
-├── GCP Cloud Digital Leader
+├── Go (Intermediate)
 │   ├── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
 │   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
-├── GitHub Actions (Course)
+├── GCP Cloud Digital Leader
 │   ├── Kubernetes Cluster: Create, deploy and automate Go scripts
 │   └── GCP Infrastructure: Configure DNS management for all VMs
-├── PCA
+├── GitHub Actions (Course)
 │   ├── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
 │   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
-├── Go (Intermediate)
+├── PCA
 │   ├── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
 │   └── GCP Infrastructure: Configure Network Security rules
-├── CAPA
+├── Go (Advanced)
 │   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
 │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
-├── GCP ACE
+├── CAPA
 │   ├── Kubernetes Cluster: Configure, test and deploy external reachability
 │   └── GCP Infrastructure: Configure, test and deploy external reachability
-├── CKA
-│   └── TBD
-├── Go (Advanced)
+├── GCP ACE
 │   └── TBD
 ├── CBA
+│   └── TBD
+├── CKS
 │   └── TBD
 ├── ICA
 │   └── TBD
 ├── CCA
-│   └── TBD
-├── CKS
 │   └── TBD
