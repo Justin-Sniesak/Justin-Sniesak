@@ -60,7 +60,7 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
 │   └── GCP Infrastructure: Configure Network Security rules
 ├── Go (Advanced)
-│   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for cluster 
+│   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for each cluster 
 │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
 ├── CAPA
 │   ├── Kubernetes Cluster: Configure, test and deploy external reachability
