@@ -35,7 +35,7 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ```
 ├── KCNA
 │   ├── Cleanup Docker repo
-│   └── Misc JS project milestone
+│   └── Misc L then JS project milestone
 ├── Go (Beginner)
 │   ├── Cleanup Kubernetes exercises repo
 │   ├── Kubernetes Cluster: Install ProxMox Hypervisor
