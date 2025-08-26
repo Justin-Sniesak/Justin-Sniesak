@@ -47,6 +47,7 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── Cleanup Python repo
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── Go (Intermediate)
+│   ├── Join Kubernetes SIG Networking
 │   ├── Kubernetes Cluster: Provision and configure master and (3) worker node Kubernetes cluster on guests 
 │   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
 ├── GCP Cloud Digital Leader
