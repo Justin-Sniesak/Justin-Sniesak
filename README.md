@@ -41,11 +41,12 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── Misc Phase 2: Complete R/B
 │   └── Misc Phase 3: JS
 ├── Go (Beginner)
-│   ├── Helm
-│   ├── Cleanup Kubernetes exercises repo (Unpin)
+│   └── Cleanup Kubernetes exercises repo (Unpin)
+├── GKE
 │   └── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
+├── Helm
+│   └── Cleanup Python repo
 ├── CKA
-│   ├── Cleanup Python repo
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── Go (Intermediate)
 │   ├── Join Kubernetes SIG Networking
