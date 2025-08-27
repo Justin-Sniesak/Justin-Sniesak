@@ -34,11 +34,11 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 
 ```
 ├── KCNA
-│   ├── Misc S
 │   ├── Cleanup Docker repo
-│   ├── GCP Infrastructure: Create GCP Account, provision storage
+│   ├── GCP Infrastructure: Create GCP Account, provision storage & VMs 
 │   ├── Misc L
 │   ├── Kubernetes Cluster: Install ProxMox Hypervisor
+│   ├── Misc R
 │   └── Misc J
 ├── Go (Beginner)
 │   ├── Cleanup Kubernetes exercises repo
