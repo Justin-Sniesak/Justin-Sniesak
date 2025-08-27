@@ -36,12 +36,12 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ├── KCNA
 │   ├── Cleanup Docker repo
 │   ├── GCP Infrastructure: Create GCP Account, provision storage & VMs 
-│   ├── Misc L
+│   ├── Lb 
 │   ├── Kubernetes Cluster: Install ProxMox Hypervisor
-│   ├── Misc R
-│   └── Misc J
+│   ├── R/B
+│   └── JS
 ├── Go (Beginner)
-│   ├── Cleanup Kubernetes exercises repo
+│   ├── Cleanup Kubernetes exercises repo (Unpin)
 │   └── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
 ├── CKA
 │   ├── Cleanup Python repo
