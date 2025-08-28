@@ -14,7 +14,7 @@ I currently reside in the Seattle metro area and absolutely love it here.
 
 **Ideal roles:** SRE or Platform Engineer.
 
-**Primary technological focus:** Kubernetes, Go, GCP, Prometheus, GitOps, Backstage, Istio, Cilium.
+**Primary technological focus:** Kubernetes, Go, GCP, Prometheus, Rook, GitOps, Backstage, Istio, Cilium.
 
 I am active on here and LinkedIn almost daily, as I am passionate about working in both GCP and with cloud native technologies. It's not work if you enjoy what you do, right?
 
