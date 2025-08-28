@@ -1,6 +1,6 @@
 # About Me
 
-Thank you for visiting my GitHub and I hope your day is going well.
+Thank you for visiting my GitHub. I hope your day is going well.
 
 My career thus far has been focused on specializing in Linux (RHEL/Ubuntu), Virtualization (VMWare & KVM), and Networking (Layers 2 & 3). I have progressively moved from :
 
@@ -12,9 +12,9 @@ My career thus far has been focused on specializing in Linux (RHEL/Ubuntu), Virt
 
 I currently reside in the Seattle metro area and absolutely love it here.
 
-**Ideal roles:** SRE, Platform Engineer, or Cloud DevOps Engineer, L4 level.
+**Ideal roles:** SRE or Platform Engineer.
 
-**Primary technological focus:** Kubernetes, Go, GCP, Prometheus, GitHub Actions, Backstage, ArgoCD, Istio, Cilium
+**Primary technological focus:** Kubernetes, Go, GCP, Prometheus, GitOps, Backstage, ArgoCD, Istio, Cilium.
 
 I am active on here and LinkedIn almost daily, as I am passionate about working in both GCP and with cloud native technologies. It's not work if you enjoy what you do, right?
 
@@ -55,20 +55,18 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ├── GCP Cloud Digital Leader
 │   ├── Kubernetes Cluster: Create, deploy and automate Go scripts
 │   └── GCP Infrastructure: Configure DNS management for all VMs
-├── GitHub Actions (Course)
+├── PCA
 │   ├── Kubernetes Cluster: Provision, test and configure Rook-ceph cluster
 │   └── GCP Infrastructure: Connect, test and configure Kubernetes cluster to GCP storage bucket
-├── PCA
+├── Go (Advanced)
 │   ├── Kubernetes Cluster: Provision test and configure containers for the following: Nginx, Prometheus, Python, Loki, Chromium/Ubuntu desktop, Anthropic MCP (Ollama), Redis, GitHub actions, MongoDB 
 │   └── GCP Infrastructure: Configure Network Security rules
-├── Go (Advanced)
+├── CGOA
 │   ├── Kubernetes Cluster: Build out and configure Grafana dashboard for each cluster 
 │   └── GCP Infrastructure: Provision and configure GKE cluster across all VMs (5 Node cluster - (1) master, (4) workers)
-├── CAPA
+├── GCP ACE
 │   ├── Kubernetes Cluster: Configure, test and deploy external reachability
 │   └── GCP Infrastructure: Configure, test and deploy external reachability
-├── GCP ACE
-│   └── TBD
 ├── CBA
 │   └── TBD
 ├── CKS
