@@ -33,11 +33,7 @@ Going forward, as of 08/20/2025, in addition to consistent documentation formatt
 Below is a roadmap of planned certifications, courses, and projects I am or will be working on. I try to devote 10-15 hours a week to this so ideally this will all be completed in the next 15 months.
 
 ```
-├── KCNA
-│   ├── GCP Infrastructure: Create GCP Account, set up cost controls, provision storage & VMs
-│   ├── Misc Phase 1: L/B
-│   ├── Misc Phase 2: Complete R/B
-│   └── Misc Phase 3: JS
+├── Misc 
 ├── Go (Beginner)
 │   └── Cleanup Kubernetes exercises repo (Unpin)
 ├── GKE
