@@ -58,6 +58,7 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate (TF)
 │   ├── Update container security in all pods via Deployment manifest (K8)
 │   ├── Update compute.tf to inject RSA keys into VMs (TF)
+│   ├── Update auth IAM tag for compute SA to pull available OS images from GCP (GCP)
 │   └── Kubernetes Cluster: Install ProxMox Hypervisor
 ├── Helm
 │   ├── Add HPA to Deployment manifest (K8)
