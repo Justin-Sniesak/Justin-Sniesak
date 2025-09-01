@@ -33,13 +33,26 @@ Going forward, as of 08/20/2025, in addition to consistent documentation formatt
 Below is a roadmap of planned certifications, courses, and projects I am or will be working on. I try to devote 10-15 hours a week to this so ideally this will all be completed in the next 15 months.
 
 ```
-├── Misc 
-├── Go (Beginner)
-│   └── Cleanup Kubernetes exercises repo (Unpin)
+├── Go 
+│   ├── Getting Started - Create GitHub repo
+│   └── Cleanup Kubernetes exercises repo
+│   ├── Data Types and Variables
+│   └── Update main.tf, deploy (3) GCP Ubuntu desktop VMs - include VSC install; change all IP to ephimeral; add new VMs to SSH script
+│   ├── Operators and Control Flow
+│   └── Create and upload architectural diagram
+│   ├── Arays, slices and maps
+│   └── Convert master PV pod manifest to Deployment include ReplicaSet
+│   ├── Using Functions
+│   └── Add HPA to Deployment manifest
+│   ├── Pointers
+│   └── Install Prometheus agent on new VMs, validate being ingested into dashboard; create Grafana dashboard and cutover from Prometheus dashboard - ensure all data is being ingested properly
+│   ├── Struct, Methods and Interfaces
+│   └── Add VPA to Deployment manifest
+│   ├── Conclusion
+│   └── Cleanup Python repo 
 ├── GKE
 │   └── Cleanup Docker repo
 ├── Helm
-│   ├── Cleanup Python repo 
 │   └── Kubernetes Cluster: Install ProxMox Hypervisor
 ├── CKA
 │   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
