@@ -51,11 +51,13 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── Struct, Methods and Interfaces
 │   ├── Cleanup Docker repo
 │   ├── Conclusion
+│   ├── Go script to provide VM name & IP upon Terraform creation in TXT file
 │   └── Cleanup Python repo
 ├── GKE
 │   ├── Configure service account IAM tagging in GCP 
 │   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate
 │   ├── Update container security in all pods via Deployment manifest
+│   ├── Update compute.tf to inject RSA keys into VMs
 │   └── Kubernetes Cluster: Install ProxMox Hypervisor
 ├── Helm
 │   ├── Add HPA to Deployment manifest (K8)
