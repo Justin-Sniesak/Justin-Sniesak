@@ -64,7 +64,8 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   └── Remap cluster PVs to GCP buckets (K8)
 ├── CKA
 │   ├── Update pod startup commands in Deployment manifest
-│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC
+│   ├── Containerize and add Ollama, nodeJS, mcp/jetbrains to Deployment manifest; add to monitoring (Prometheus/Grafana); connect to VMs (Unidirectional 1:1)
+│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC, map to containers - Ollama, nodeJS, Go, mcp/jetbrains
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── Go (Intermediate)
 │   ├── Join Kubernetes SIG Networking
