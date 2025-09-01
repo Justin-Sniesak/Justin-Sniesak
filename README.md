@@ -36,6 +36,7 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ├── Go 
 │   ├── Getting Started - Create GitHub repo
 │   ├── Cleanup old Kubernetes repo
+│   ├── Attach GCP project to orginization and enable VM scanning (GCP)
 │   ├── Data Types and Variables
 │   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script (TF)
 │   ├── Operators and Control Flow
