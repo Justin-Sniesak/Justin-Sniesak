@@ -37,37 +37,37 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 │   ├── Getting Started - Create GitHub repo
 │   ├── Cleanup old Kubernetes repo
 │   ├── Data Types and Variables
-│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script
+│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script (TF)
 │   ├── Operators and Control Flow
-│   ├── Create and upload architectural diagram
+│   ├── Create and upload architectural diagram (Enterprise)
 │   ├── Arays, slices and maps
-│   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally 
+│   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally (Prom)
 │   ├── Using Functions
-│   ├── Convert master PV pod manifest to Deployment include ReplicaSet in cluster 
+│   ├── Convert master PV pod manifest to Deployment include ReplicaSet in cluster (K8)
 │   ├── Using Functions
-│   ├── Add tags to buckets storage.tf 
+│   ├── Add tags to buckets storage.tf (TF)
 │   ├── Pointers
-│   ├── Update deployment manifest, install Prometheus agent on all containers via daemonset, validate data is being ingested properly - validate
+│   ├── Update deployment manifest, install Prometheus agent on all containers via daemonset, validate data is being ingested properly - validate (Prom)
 │   ├── Struct, Methods and Interfaces
 │   ├── Cleanup Docker repo
 │   ├── Conclusion
-│   ├── Go script to provide VM name & IP upon Terraform creation in TXT file
+│   ├── Go script to provide VM name & IP upon Terraform creation in TXT file (TF)
 │   └── Cleanup Python repo
 ├── GKE
-│   ├── Configure service account IAM tagging in GCP 
-│   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate
-│   ├── Update container security in all pods via Deployment manifest
-│   ├── Update compute.tf to inject RSA keys into VMs
+│   ├── Configure service account IAM tagging in GCP (GCP)
+│   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate (TF)
+│   ├── Update container security in all pods via Deployment manifest (K8)
+│   ├── Update compute.tf to inject RSA keys into VMs (TF)
 │   └── Kubernetes Cluster: Install ProxMox Hypervisor
 ├── Helm
 │   ├── Add HPA to Deployment manifest (K8)
-│   ├── Create Grafana dashboard and cutover from Prometheus - ensure all data is being ingested properly 
+│   ├── Create Grafana dashboard and cutover from Prometheus - ensure all data is being ingested properly (Grafana)
 │   ├── Add VPA to Deployment manifest (K8)
 │   └── Remap cluster PVs to GCP buckets (K8)
 ├── CKA
-│   ├── Update pod startup commands in Deployment manifest
-│   ├── Containerize and add Ollama, nodeJS, mcp/jetbrains to Deployment manifest; add to monitoring (Prometheus/Grafana); connect to VMs (Unidirectional 1:1)
-│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC, map to containers - Ollama, nodeJS, Go, mcp/jetbrains
+│   ├── Update pod startup commands in Deployment manifest (K8)
+│   ├── Containerize and add Ollama, nodeJS, mcp/jetbrains to Deployment manifest; add to monitoring (Prometheus/Grafana); connect to VMs (Unidirectional 1:1) (K8)
+│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC, map to containers - Ollama, nodeJS, Go, mcp/jetbrains (K8)
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── Go (Intermediate)
 │   ├── Join Kubernetes SIG Networking
