@@ -35,27 +35,36 @@ Below is a roadmap of planned certifications, courses, and projects I am or will
 ```
 ├── Go 
 │   ├── Getting Started - Create GitHub repo
-│   └── Cleanup Kubernetes exercises repo
+│   ├── Cleanup old Kubernetes repo
 │   ├── Data Types and Variables
-│   └── Update main.tf, deploy (3) GCP Ubuntu desktop VMs - include VSC install; change all IP to ephimeral; add new VMs to SSH script
+│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script
 │   ├── Operators and Control Flow
-│   └── Create and upload architectural diagram
+│   ├── Create and upload architectural diagram
 │   ├── Arays, slices and maps
-│   └── Convert master PV pod manifest to Deployment include ReplicaSet
+│   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally 
 │   ├── Using Functions
-│   └── Add HPA to Deployment manifest
+│   ├── Convert master PV pod manifest to Deployment include ReplicaSet in cluster 
+│   ├── Using Functions
+│   ├── Add tags to buckets storage.tf 
 │   ├── Pointers
-│   └── Install Prometheus agent on new VMs, validate being ingested into dashboard; create Grafana dashboard and cutover from Prometheus dashboard - ensure all data is being ingested properly
+│   ├── Update deployment manifest, install Prometheus agent on all containers via daemonset, validate data is being ingested properly - validate
 │   ├── Struct, Methods and Interfaces
-│   └── Add VPA to Deployment manifest
+│   ├── Cleanup Docker repo
 │   ├── Conclusion
-│   └── Cleanup Python repo 
+│   └── Cleanup Python repo
 ├── GKE
-│   └── Cleanup Docker repo
-├── Helm
+│   ├── Configure service account IAM tagging in GCP 
+│   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate
+│   ├── Update container security in all pods via Deployment manifest
 │   └── Kubernetes Cluster: Install ProxMox Hypervisor
+├── Helm
+│   ├── Add HPA to Deployment manifest (K8)
+│   ├── Create Grafana dashboard and cutover from Prometheus - ensure all data is being ingested properly 
+│   ├── Add VPA to Deployment manifest (K8)
+│   └── Remap cluster PVs to GCP buckets (K8)
 ├── CKA
-│   ├── Kubernetes Cluster: Provision and configure (4) Alma Linux guests along with VSC
+│   ├── Update pod startup commands in Deployment manifest
+│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC
 │   └── GCP Infrastructure: Provision VM, install Terraform and configure main.tf
 ├── Go (Intermediate)
 │   ├── Join Kubernetes SIG Networking
