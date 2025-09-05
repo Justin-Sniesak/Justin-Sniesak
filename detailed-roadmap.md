@@ -26,7 +26,7 @@
 │   ├── *Update pod startup commands in Deployment manifest | Finish UF
 │   ├── *Remap cluster PVs to GCP buckets (Backend Storage) | PTR (3) 
 │   ├── *Update container security in all pods via Deployment manifest | PTR (3)
-│   ├── *Create full documentation for enterprise stack; update with every further project milestone completed | PTR (3)
+│   ├── Finish Pointers
 │   ├── Struct, Methods and Interfaces
 │   └── Conclusion
 ├── Helm
