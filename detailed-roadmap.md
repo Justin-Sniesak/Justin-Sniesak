@@ -1,13 +1,23 @@
 ```
 ├── Go
-│   ├── Cleanup old Kubernetes repo | Create pipeline repo | (3) DTV modules | purple pod manifest 1
-│   ├── Attach GCP project to orginization and enable VM scanning | pod/PV/PVC manifest (ARGO & MongoDB) | (3) DTV modules | purple pod manifest 2
-│   ├── Provision buckets/configure IAM using TF and configure IAM settings | Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules | purple pod manifest 3
-│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script | Write script for DB/Table/Users (Mongo & Argo) | (3) DTV modules | purple pod manifest 4
-│   ├── Create and upload architectural diagram | Build CI/CD pipeline using Mongo & Argo manifests and K8 secrets | (3) DTV modules | purple pod manifest 5
-│   ├── vpc.tf - Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules | Test pipeline, confirm working and correct/document any issues | (3) OCF modules | purple pod manifest 6
+│   ├── Cleanup old Kubernetes repo | (3) DTV modules | purple pod manifest 1
+│   ├── Create pipeline repo | (3) DTV modules | purple pod manifest 2
+│   ├── Attach GCP project to orginization and enable VM scanning | (3) DTV modules | purple pod manifest 3
+│   ├── Create pod/PV/PVC manifest for ARGO & MongoDB |  (3) DTV modules | purple pod manifest 4
+│   ├── Provision buckets/configure IAM using TF and configure IAM settings | (3) DTV modules | purple pod manifest 5
+│   ├── Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules | purple pod manifest 6
+│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script | (3) DTV modules | purple pod manifest 7
+│   ├── Write script for DB/Table/Users (Mongo & Argo)| (3) DTV modules | purple pod manifest 8
+│   ├── Create and upload architectural diagram | (3) DTV modules | purple pod manifest 9
+│   ├── Update all manifests to Deployment/ReplicaSet with rolling updates; group pods per use case | (3) DTV modules | purple pod manifest 9
+│   ├── vpc.tf - Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules | (3) OCF modules 
+
+
+ 
+│   ├── Build Argo pipeline using Mongo & Argo manifests and K8 secrets 
+Test pipeline, confirm working and correct/document any issues |
 │   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally | Configure argo, write additional manifest and merge to repo, confirm pipeline is merging and pulling new code | (3) OCF modules | purple pod manifest 6
-│   ├── Update all manifests to Deployment/ReplicaSet with rolling updates, Segment pods per use case in applicable manifests | (3) OCF modules | purple pod manifest 7
+(3) OCF modules | purple pod manifest 7
 │   ├── Push all updated deployment manifests to repo and test, confirm updates and restarts are being applied as intended | (3) OCF modules | purple pod manifest 8
 │   ├── Configure argo and pipeline to ImagePull: Latest with auto restart of pods | (3) OCF modules | purple pod manifest 9
 │   ├── Write imperative run book for every step in GCP deployment, pipeline/argo & K8 cluster - attach to repo | (3) OCF modules | purple pod manifest 9
