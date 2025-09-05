@@ -1,42 +1,44 @@
 ```
-├── Go 
-│   ├── Cleanup old Kubernetes repo
-│   ├── Attach GCP project to orginization and enable VM scanning (GCP)
-│   ├── Provision buckets using TF and configure IAM settings (TF)
-│   ├── Data Types and Variables
-│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script (TF)
-│   ├── Create and upload architectural diagram (Enterprise)
-│   ├── Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules(TF)
-│   ├── Operators and Control Flow
-│   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally (Prom)
-│   ├── Convert master PV pod manifest to Deployment include ReplicaSet in cluster (K8)
-│   ├── Add tags to buckets storage.tf (TF)
+├── Go
+│   ├── Cleanup old Kubernetes repo | Create pipeline repo | (3) DTV modules | purple pod manifest 1
+│   ├── Attach GCP project to orginization and enable VM scanning | pod/PV/PVC manifest (ARGO & MongoDB) | (3) DTV modules | purple pod manifest 2
+│   ├── Provision buckets/configure IAM using TF and configure IAM settings | Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules | purple pod manifest 3
+│   ├── compute.tf - VSC install; change all IP to ephimeral; inject RSA keys; add new VMs to SSH script | Write script for DB/Table/Users (Mongo & Argo) | (3) DTV modules | purple pod manifest 4
+│   ├── Create and upload architectural diagram | Build CI/CD pipeline using Mongo & Argo manifests and K8 secrets | (3) DTV modules | purple pod manifest 5
+│   ├── vpc.tf - Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules | Test pipeline, confirm working and correct/document any issues | (3) OCF modules | purple pod manifest 6
+│   ├── Configure Prometheus pod; self monitoring; configure dashboard; expose externally | Configure argo, write additional manifest and merge to repo, confirm pipeline is merging and pulling new code | (3) OCF modules | purple pod manifest 6
+│   ├── Update all manifests to Deployment/ReplicaSet with rolling updates, Segment pods per use case in applicable manifests | (3) OCF modules | purple pod manifest 7
+│   ├── Push all updated deployment manifests to repo and test, confirm updates and restarts are being applied as intended | (3) OCF modules | purple pod manifest 8
+│   ├── Configure argo and pipeline to ImagePull: Latest with auto restart of pods | (3) OCF modules | purple pod manifest 9
+│   ├── Write imperative run book for every step in GCP deployment, pipeline/argo & K8 cluster - attach to repo | (3) OCF modules | purple pod manifest 9
 │   ├── Arays, slices and maps
-│   ├── Update deployment manifest, install Prometheus agent on all containers via daemonset, validate data is being ingested properly - validate (Prom)
-│   ├── Cleanup Docker repo
-│   ├── Go script to provide VM name & IP upon Terraform creation in TXT file- Automate (TF)
 │   ├── Using Functions
-│   ├── Cleanup Python repo
-│   ├── Configure service account IAM tagging in GCP (GCP)
-│   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate (TF)
 │   ├── Pointers
-│   ├── Update container security in all pods via Deployment manifest (K8)
-│   ├── Update compute.tf to inject RSA keys into VMs (TF)
-│   ├── Update auth IAM tag for compute SA to pull available OS images from GCP (GCP)
 │   ├── Struct, Methods and Interfaces
-│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
-│   ├── Add HPA to Deployment manifest (K8)
-│   ├── Create Grafana dashboard and cutover from Prometheus - ensure all data is being ingested properly (Grafana)
 │   └── Conclusion
 ├── GKE
-│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
-│   ├── Add VPA to Deployment manifest (K8)
-│   └── Remap cluster PVs to GCP buckets (K8)
+│   ├── Add tags to buckets storage.tf
+│   ├── Update deployment manifest, install Prometheus agent on all containers via daemonset, validate data is being ingested properly - validate 
+│   ├── Cleanup Docker repo
+│   ├── Go script to provide VM name & IP upon Terraform creation in TXT file- Automate
+│   ├── Cleanup Python repo
+│   └── Configure service account IAM tagging in GCP 
 ├── Helm
-│   ├── Update pod startup commands in Deployment manifest (K8)
-│   ├── Containerize and add Ollama, nodeJS, mcp/jetbrains to Deployment manifest; add to monitoring (Prometheus/Grafana); connect to VMs (Unidirectional 1:1) (K8)
-│   └── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC, map to containers - Ollama, nodeJS, Go, mcp/jetbrains (K8)
+│   ├── master.tf - update to install Prometheus agent on all Ubuntu guests, validate data is being ingested properly - validate
+│   ├── Update container security in all pods via Deployment manifest 
+│   ├── Update compute.tf to inject RSA keys into VMs 
+│   ├── Update auth IAM tag for compute SA to pull available OS images from GCP
+│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
+│   └── Add HPA to Deployment manifest 
+├── Rust
+│   ├── Create Grafana dashboard and cutover from Prometheus - ensure all data is being ingested properly 
+│   ├── Kubernetes Cluster: Install ProxMox Hypervisor
+│   ├── Add VPA to Deployment manifest 
+│   ├── Remap cluster PVs to GCP buckets 
+│   ├── Update pod startup commands in Deployment manifest 
+│   └── Containerize and add Ollama, nodeJS, mcp/jetbrains to Deployment manifest; add to monitoring (Prometheus/Grafana); connect to VMs (Unidirectional 1:1) 
 ├── CKA
+│   ├── Kubernetes Cluster: Provision and configure (4) Ubuntu Linux guests along with VSC, map to containers - Ollama, nodeJS, Go, mcp/jetbrains 
 │   ├── GCP Infrastructure: Provision VM, install Terraform, scp over .tf files from Bastion Host
 │   ├── Join Kubernetes SIG Networking
 │   └── GCP Infrastructure: Using Terraform, provision and configure (4) VMs with each having Nginx, VSC and Chrome installed
