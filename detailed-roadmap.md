@@ -1,6 +1,5 @@
 ```
 ├── Go 
-│   ├── Create GitHub repo
 │   ├── Cleanup old Kubernetes repo
 │   ├── Attach GCP project to orginization and enable VM scanning (GCP)
 │   ├── Provision buckets using TF and configure IAM settings (TF)
