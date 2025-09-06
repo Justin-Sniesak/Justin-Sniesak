@@ -1,14 +1,14 @@
 ```
 ├── Go
-│   ├── Cleanup old Kubernetes repo | (3) DTV modules | purple pod manifest 1
-│   ├── *Create pipeline repo for pod manifest/Argo | (3) DTV modules | purple pod manifest 2
-│   ├── *Attach GCP project to orginization and enable VM scanning | (3) DTV modules | purple pod manifest 3
-│   ├── *Create pod/PV/PVC manifest for ARGO & MongoDB -> create SA for Argo |  (3) DTV modules | purple pod manifest 4
-│   ├── *Provision buckets/configure IAM using TF and configure IAM settings | (3) DTV modules | purple pod manifest 5
-│   ├── *Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules | purple pod manifest 6
-│   ├── *compute.tf: Change to Ubuntu desktop -> VSC install -> change all IP to ephimeral -> inject RSA keys -> Add VMs and convert bash script to Go | (3) DTV modules | purple pod manifest 7
-│   ├── *Write script for DB/Table/Users (Mongo) -> Validate functionality | (3) DTV modules | purple pod manifest 8
-│   ├── *Create and upload architectural diagram | (3) DTV modules | purple pod manifest 9
+│   ├── Cleanup old Kubernetes repo | purple pod manifest 1 | (3) DTV modules | purple pod manifest 2
+│   ├── *Create pipeline repo for pod manifest/Argo | purple pod manifest 3 | (3) DTV modules | purple pod manifest 4
+│   ├── *Attach GCP project to orginization and enable VM scanning | purple pod manifest 5 | (3) DTV modules | purple pod manifest 6
+│   ├── *Create pod/PV/PVC manifest for ARGO & MongoDB -> create SA for Argo | purple pod manifest 7 | (3) DTV modules | purple pod manifest 8
+│   ├── *Provision buckets/configure IAM using TF and configure IAM settings | purple pod manifest 9 | (3) DTV modules | 
+│   ├── *Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules
+│   ├── *compute.tf: Change to Ubuntu desktop -> VSC install -> change all IP to ephimeral -> inject RSA keys -> Add VMs and convert bash script to Go | (3) DTV modules 
+│   ├── *Write script for DB/Table/Users (Mongo) -> Validate functionality | (3) DTV modules 
+│   ├── *Create and upload architectural diagram | (3) DTV modules 
 │   ├── *Update all manifests to Deployment/ReplicaSet with rolling updates grouping pods per namespace | (3) DTV modules 
 │   ├── *vpc.tf - Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules | (3) OCF modules 
 │   ├── *Configure Argo -> test and confirm working -> internally expose -> validate GUI -> validate functionality | (3) OCF modules 
