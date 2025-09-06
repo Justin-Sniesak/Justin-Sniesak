@@ -5,7 +5,7 @@
 │   ├── *Attach GCP project to orginization and enable VM scanning | purple pod manifest 5 | (3) DTV modules | purple pod manifest 6
 │   ├── *Create pod/PV/PVC manifest for ARGO & MongoDB -> create SA for Argo | purple pod manifest 7 | (3) DTV modules | purple pod manifest 8
 │   ├── *Provision buckets/configure IAM using TF and configure IAM settings | purple pod manifest 9 | (3) DTV modules | purple pod manifest 10
-│   ├── *Create K8 secrets for MongoDB users and Argo SA | (3) DTV modules
+│   ├── *Create K8 secrets for MongoDB users and Argo SA | purple pod manifest 11 | (3) DTV modules | purple pod manifest 12
 │   ├── *compute.tf: Change to Ubuntu desktop -> VSC install -> change all IP to ephimeral -> inject RSA keys -> Add VMs and convert bash script to Go | (3) DTV modules 
 │   ├── *Write script for DB/Table/Users (Mongo) -> Validate functionality | (3) DTV modules 
 │   ├── *Create and upload architectural diagram | (3) DTV modules 
