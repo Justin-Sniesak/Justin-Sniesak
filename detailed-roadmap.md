@@ -41,7 +41,7 @@
 │   ├── *Create K8 secrets for MongoDB users and Argo SA | v1 | v2 | v1
 │   ├── *Create pod/PV/PVC manifest for ARGO & MongoDB -> create SA for Argo -> Add to monitoring/observability -> map to CloudBuckets | v1 | v2 | v1
 │   ├── *Write script for DB/Table/Users (Mongo) -> Validate functionality | v1 | v2 | v1
-│   ├── Write, test, containerize and deploy (Go) app -> Add to monitoring/observability | v1 | v2 | v1
+│   ├── Write, test, containerize and deploy (Go) app -> Add to monitoring/observability -> Add into CI/CD pipeline and test full functionality | v1 | v2 | v1
 │   ├── Write, test, and automate Go scripts | v1 | v2 | v1
 │   ├── *Write Deployment manifest: Python, Anthropic MCP, Redis, Ollama (AI Dev) -> push to GKE cluster -> add to monitoring/observability -> validate CI/CD functionality -> confirm writing to MongoDB | v1 | v2 | v1
 │   ├── *Consolidate all mainfests into full scope deployment manifests -> push to repo and validate CI/CD | v1 | v2 | v1
