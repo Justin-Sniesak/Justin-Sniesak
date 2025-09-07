@@ -1,28 +1,28 @@
 # About Me
 
-Platform Engineer specializing in Kubernetes, GCP, Terraform and cloud-native infrastructure. Thank you for visiting my GitHub!
+**Rapid Technical Acquisition Specialist | Platform Engineer**
 
-My career thus far has been focused on specializing in Linux (RHEL/Ubuntu), Virtualization (VMWare & KVM), and Networking (Layers 2 & 3). I have progressively moved from :
+Thank you for visiting my GitHub! This repository documents my journey of accelerated technical mastery, including enterprise Kubernetes expertise achieved in just 14 days.
 
-- Helpdesk
-- Enterprise Operational Server Support/Administration
-- Network Engineering
-- Senior System Administration
-- Infrastructure Engineering
+**My Learning Acceleration Story**
 
-I currently reside in the Seattle metro area and absolutely love it here.
+While my career foundation spans traditional infrastructure - from helpdesk through network engineering to senior systems administration - I've recently demonstrated rapid acquisition of cutting-edge cloud-native technologies. My documented progression from zero Kubernetes knowledge to production-grade service mesh architecture showcases systematic learning velocity that differentiates me in the market.
 
-**Ideal roles:** SRE or Platform Engineer.
+**Career Progression:**
 
-**Primary technological focus:** Kubernetes, Go, GCP, Prometheus, Rook, GitOps, Backstage, Istio, Cilium.
+Helpdesk → Enterprise Server Operations → Network Engineering → Senior Systems Administration → **Infrastructure Engineering** → **Platform Engineering**
 
-I am active on here and LinkedIn almost daily, as I am passionate about working in both GCP and with cloud native technologies. It's not work if you enjoy what you do, right?
+**Current Technical Focus:**
 
-I run all my own labs locally - building, breaking, troubleshooting, root cause analysis and documentation. All projects follow structured, methodical documentation to ensure clarity and reproducibility.
+Proven expertise: Kubernetes, GCP, Terraform, Networking, Ansible, Linux systems
+Emerging mastery: Prometheus, Rook, GitOps, Backstage, Cilium, Go, Istio
 
-Thank you again for visiting my GitHub, and if any of this resonates with you, or you have any questions, I would love to connect and speak further, so please do not hesitate to reach out, either here, on LinkedIn, or via email.
+Location: Seattle metro area ☕
 
-### Notes
-- Earlier commits were not consistently annotated. As of 08/20/2025, all commits follow a consistent format and tree structure.
+**What Sets Me Apart:**
 
-- For a full roadmap of planned certifications, courses, and projects, see [detailed-roadmap.md](./detailed-roadmap.md).
+I document everything. Every project here follows structured, methodical progression with real troubleshooting scenarios and root cause analysis. This isn't just code - it's proof of systematic learning and problem-solving capability.
+Ideal roles: Platform Engineer, SRE, or any position where rapid technical acquisition creates competitive advantage.
+Let's Connect
+If you value learning velocity and technical depth over tenure requirements, I'd love to discuss how my acceleration capabilities could benefit your team.
+📧 justindsniesak@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/justinsniesak/) | 🚀 Always building something new
