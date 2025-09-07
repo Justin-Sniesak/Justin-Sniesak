@@ -1,6 +1,6 @@
 ```
 ├── Go 1
-│   ├── Cleanup old Kubernetes repo | v1| v2 | v1
+│   ├── v1| v2 | v1
 │   ├── *Attach GCP project to orginization and enable VM scanning | v1 | v2 | v1
 │   ├── *Provision buckets/configure IAM using TF and configure IAM settings | v1 | v2 | v1
 │   ├── *Configure Prometheus -> self monitoring -> configure dashboard -> expose externally | v1 | v2 | v1
@@ -10,12 +10,10 @@
 │   ├── *Add tags to buckets storage.tf | v1 | v2 | v1
 │   ├── *Configure Prometheus agent on all containers -> ensure data is being ingested and visualized on dadhboard for all pods (up/uptime/cpu/mem/etc) | v1 | v2 | v1
 │   ├── *Update container security in all pods via Deployment manifest | PTR (3) | v1 | v2 | v1
-│   ├── Cleanup Python repo | v1 | v2 | v1
 │   ├── *Add Loki to monitoring and observability Deployment manifest -> map to CloudStorage for log collection -> validate functionality | v1 | v2 | v1
 │   ├── *compute.tf: Change to Ubuntu desktop -> VSC install -> change all IP to ephimeral -> inject RSA keys -> Add VMs and convert bash script to Go | v1 | v2 | v1
 │   ├── *Configure Grafana dashboard -> externally expose -> ensure all data from Prometheus is being ingested and visualized | v1 | v2 | v1
 │   ├── *Update pod startup commands in Deployment manifest | v1 | v2 | v1
-│   ├── Cleanup Docker repo | v1 | v2 | v1
 │   ├── *Install ProxMox Hypervisor -> install Terraform | v1 | v2 | v1
 │   ├── *vpc.tf - Provision VPC with ephimeral IP assignment using TF and configure VPC Firewall rules | v1 | v2 | v1
 │   ├── *Update deployment manifest -> install Prometheus agent on all containers via daemonset -> validate data is being ingested properly for all pods (argo/version)/cpu/mem/uptime | v1 | v2 | v1
