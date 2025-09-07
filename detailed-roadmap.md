@@ -1,6 +1,6 @@
 ```
 ├── Go 1
-│   ├── v1| v2 | v1
+│   ├── v1 | v1
 │   ├── *Attach GCP project to orginization and enable VM scanning | v1 | v1
 │   ├── *Provision buckets/configure IAM using TF and configure IAM settings | v1 | v1
 │   ├── *Configure Prometheus -> self monitoring -> configure dashboard -> expose externally | v1 | v2 | v1
