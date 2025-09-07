@@ -14,7 +14,7 @@ Helpdesk → Enterprise Server Operations → Network Engineering → Senior Sys
 
 **Current Technical Focus:**
 
-Proven expertise: Kubernetes, GCP, Terraform, Networking, Ansible, Linux, Grafana, Docker
+Proven expertise: Kubernetes, GCP, Terraform, Networking, Ansible, Linux, Grafana, Docker, Bare Metal
 
 Emerging mastery: Prometheus, Rook, GitOps, Backstage, Cilium, Go, Istio
 
