@@ -2,7 +2,7 @@
 
 **Rapid Technical Acquisition Specialist | Platform Engineer**
 
-Thank you for visiting my GitHub! This repository documents my journey of accelerated technical mastery, including enterprise Kubernetes expertise achieved in just 14 days.
+Thank you for visiting my GitHub! This repository documents my journey of accelerated technical mastery, including advanced enterprise Kubernetes proficiency achieved in just 14 days.
 
 **My Learning Acceleration Story**
 
@@ -16,7 +16,7 @@ Helpdesk → Enterprise Server Operations → Network Engineering → Senior Sys
 
 Proven expertise: Kubernetes, GCP, Terraform, Networking, Ansible, Linux, Grafana, Docker, Bare Metal, YAML
 
-Emerging mastery: Prometheus, Rook, GitOps, Backstage, Cilium, Go, Istio
+Emerging mastery: Prometheus, Rook, GitOps, Cilium, Go, Istio
 
 Location: Seattle metro area ☕
 
