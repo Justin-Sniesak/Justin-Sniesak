@@ -27,4 +27,4 @@ Ideal roles: Platform Engineer, SRE, or any position where rapid technical acqui
 Let's Connect!
 If you value learning velocity and technical depth over tenure requirements, I'd love to discuss how my acceleration capabilities could benefit your team.
 
-📧 justindsniesak@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/justinsniesak/) | 🚀 Always building something new
+📧 justindsniesak@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/justinsniesak/) | https://js-linuxk8infra.github.io/Enterprise-IaC-Kubernetes-GCP/ | 🚀 Always building something new
