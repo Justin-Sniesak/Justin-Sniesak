@@ -21,6 +21,6 @@ Emerging mastery: Prometheus, Rook, GitOps, Cilium, Go, Istio
 **What Sets Me Apart:**
 
 I document everything. Every project here follows structured, methodical progression with real troubleshooting scenarios and root cause analysis. This isn't just code - it's proof of systematic learning and problem-solving capability.
-Ideal roles: Platform Engineer, SRE, or any position where rapid technical acquisition creates competitive advantage.
+Ideal roles: Platform Engineer or SRE.
 Let's Connect!
 If you value learning velocity and technical depth over tenure requirements, I'd love to discuss how my acceleration capabilities could benefit your team.
