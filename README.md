@@ -1,6 +1,8 @@
 Rapid Technical Acquisition Specialist | Platform Engineer
 
-My GitHub is a living portfolio of my proficiency in modern infrastructure. I specialize in the accelerated design and implementation of cloud-native systems, with a proven ability to go from zero knowledge to enterprise-level proficiency in weeks, not months.
+This is my living portfolio of production-grade, cloud-native infrastructure.  I specialize in the accelerated design and implementation of complex systems, with a proven ability to go from zero knowledge to enterprise-level proficiency in weeks.
+
+My projects are a testament to my methodical approach to problem-solving and my belief that comprehensive documentation is the cornerstone of a scalable environment.
 
 Core Competencies:
 
@@ -10,6 +12,4 @@ Infrastructure as Code: Terraform, Ansible, GitOps
 
 Systems & Operations: Linux, Networking, Bare Metal, Prometheus, Grafana, Cilium, Rook, YAML
 
-I believe systematic problem-solving and production-grade documentation are cornerstones of a scalable environment. Every project here is a testament to my methodical approach and a record of real-world troubleshooting.
-
-Seeking organizations that value technical depth and learning velocity.
+I am always open to connecting with fellow engineers to discuss infrastructure, automation, and security.
