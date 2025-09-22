@@ -1,15 +1,9 @@
-Rapid Technical Acquisition Specialist | Platform Engineer
+Infrastructure Engineer
+This portfolio showcases my Kubernetes and cloud infrastructure work. I focus on systematic implementation of complex systems with thorough documentation.
+My projects demonstrate hands-on experience with:
 
-This is my living portfolio of production-grade, cloud-native infrastructure.  I specialize in the accelerated design and implementation of complex systems, with a proven ability to go from zero knowledge to enterprise-level proficiency in weeks.
+Cloud-Native: Kubernetes, Docker, GCP, Go
+Infrastructure as Code: Terraform, Ansible
+Systems: Linux, Networking, Prometheus, Grafana
 
-My projects are a testament to my methodical approach to problem-solving and my belief that comprehensive documentation is the cornerstone of a scalable environment.
-
-Core Competencies:
-
-Cloud-Native Architecture: Kubernetes, Istio, Docker, GCP, Go
-
-Infrastructure as Code: Terraform, Ansible, GitOps
-
-Systems & Operations: Linux, Networking, Bare Metal, Prometheus, Grafana, Cilium, Rook, YAML
-
-I am always open to connecting with fellow engineers to discuss infrastructure, automation, and security.
+Always interested in connecting with other infrastructure engineers.
