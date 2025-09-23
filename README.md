@@ -1,15 +1,20 @@
-Infrastructure Engineer
+## Senior Infrastructure Engineer | U.S. Navy Veteran
 
-This portfolio showcases my Kubernetes and cloud infrastructure work. I focus on systematic implementation of complex systems with thorough documentation.
+Building reliable, scalable infrastructure systems with 15+ years of hands-on experience.
 
-My projects demonstrate hands-on experience with:
+**What I Build:**
+- Production Kubernetes clusters (hybrid cloud + bare metal)
+- Zero-trust security architectures with comprehensive RBAC
+- Automated infrastructure provisioning and deployment pipelines
+- Full-stack observability and monitoring solutions
 
-- Cloud-Native: Kubernetes, Docker, GCP
+**Tech Stack:**
+- **Cloud-Native:** Kubernetes, Docker, GCP
+- **Infrastructure as Code:** Terraform, Ansible
+- **Systems:** Linux (RHEL, Ubuntu, Alpine), Networking
+- **Monitoring:** Prometheus, Grafana, Nagios, Dynatrace  
+- **Automation:** Bash, Go, YAML
 
-- Infrastructure as Code: Terraform, Ansible
+This portfolio demonstrates systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
 
-- Systems: Linux (RHEL, Ubuntu, Alpine), Networking, Prometheus, Grafana, Nagios, Dynatrace
-
-- Automation and Programmability: Bash, Go, YAML
-
-Always interested in connecting with other infrastructure engineers.
+*Always interested in collaborating with other infrastructure engineers and contributing to open source projects.*
