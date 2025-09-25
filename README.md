@@ -1,6 +1,6 @@
 ## Senior Infrastructure Engineer | U.S. Navy Veteran
 
-Building reliable, scalable infrastructure systems with 15+ years of hands-on experience.
+Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well maintained documentation to be a feature, not a bug.
 
 **What I Build:**
 - Production Kubernetes clusters (hybrid cloud + bare metal)
