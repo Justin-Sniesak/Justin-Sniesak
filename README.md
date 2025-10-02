@@ -2,30 +2,43 @@
 
 Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well-maintained documentation to be a feature, not a bug.
 
-## What I Build:
+My focus is on end-to-end platform architecture and SRE practices across various environments:
 
-▪️ Resilient Kubernetes clusters architected for Hybrid Cloud and bare-metal environments
+▪️Multi-Namespace Kubernetes architected for Hybrid Cloud and bare-metal deployments.
 
-▪️ Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration
+▪️Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration.
 
-▪️ Full-stack observability and monitoring solutions (Prometheus)
+▪️Full-stack observability and monitoring solutions (Prometheus, Grafana).
 
-## Tech Stack:
+## Core Tech Stack
+## Category
 
-▪️ Cloud-Native: Kubernetes, Docker, GCP
+▪️Tools & Technologies
 
-▪️ Infrastructure as Code: Terraform, Ansible
+▪️Cloud-Native
 
-▪️ Systems: Linux (RHEL, Ubuntu, Alpine), Networking, ProxMox, VMWare, KVM
+▪️Kubernetes, Docker, GCP
 
-▪️ Monitoring: Prometheus, Grafana, Nagios, Dynatrace
+▪️Infrastructure as Code
 
-▪️ Automation: Bash, Go, YAML, GitHub Actions
+▪️Terraform, Ansible
 
-This portfolio demonstrates systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
+▪️Systems/Virtualization
 
-## Proof of Concept
+▪️Linux (RHEL, Ubuntu), Networking, ProxMox, VMWare, KVM
 
-See the complete GCP/ProxMox Hybrid Cloud Kubernetes demonstration on my LinkedIn profile: https://www.linkedin.com/feed/update/urn:li:activity:7379378772761989120/
+▪️Monitoring/SRE
 
-Always interested in collaborating with other infrastructure engineers and contributing to open source projects.
+▪️Prometheus, Grafana, Nagios, Dynatrace
+
+▪️Automation/Scripting
+
+▪️Bash, Go, YAML, GitHub Actions, Powershell
+
+## Portfolio & Collaboration
+
+This portfolio showcases the systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
+
+Proof of Concept: See the complete GCP/ProxMox Hybrid Cloud Kubernetes demonstration on my LinkedIn profile.
+
+Always interested in collaborating with other infrastructure engineers and contributing to open-source projects.
