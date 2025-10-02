@@ -4,25 +4,23 @@ Building reliable, scalable infrastructure systems with a strong bias towards ac
 
 ## What I Build:
 
-Resilient Kubernetes clusters architected for Hybrid Cloud and bare-metal environments
+▪️ Resilient Kubernetes clusters architected for Hybrid Cloud and bare-metal environments
 
-Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration
+▪️ Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration
 
-Automated infrastructure provisioning and deployment pipelines (CI/CD)
-
-Full-stack observability and monitoring solutions (Prometheus/Grafana)
+▪️ Full-stack observability and monitoring solutions (Prometheus)
 
 ## Tech Stack:
 
-Cloud-Native: Kubernetes, Docker, GCP
+▪️ Cloud-Native: Kubernetes, Docker, GCP
 
-Infrastructure as Code: Terraform, Ansible
+▪️ Infrastructure as Code: Terraform, Ansible
 
-Systems: Linux (RHEL, Ubuntu), Networking, ProxMox
+▪️ Systems: Linux (RHEL, Ubuntu, Alpine), Networking, ProxMox, VMWare, KVM
 
-Monitoring: Prometheus, Grafana, Nagios, Dynatrace
+▪️ Monitoring: Prometheus, Grafana, Nagios, Dynatrace
 
-Automation: Bash, Go, YAML
+▪️ Automation: Bash, Go, YAML, GitHub Actions
 
 This portfolio demonstrates systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
 
