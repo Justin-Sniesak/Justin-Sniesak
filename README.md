@@ -11,29 +11,18 @@ My focus is on end-to-end platform architecture and SRE practices across various
 ▪️Full-stack observability and monitoring solutions (Prometheus, Grafana).
 
 ## Core Tech Stack
-## Category
 
 ▪️Tools & Technologies
 
-▪️Cloud-Native
+▪️Cloud-Native: Kubernetes, Docker, GCP
 
-▪️Kubernetes, Docker, GCP
+▪️Infrastructure as Code: Terraform, Ansible
 
-▪️Infrastructure as Code
+▪️Systems/Virtualization: Linux (RHEL, Ubuntu), Networking, ProxMox, VMWare, KVM
 
-▪️Terraform, Ansible
+▪️Monitoring/SRE:Prometheus, Grafana, Nagios, Dynatrace
 
-▪️Systems/Virtualization
-
-▪️Linux (RHEL, Ubuntu), Networking, ProxMox, VMWare, KVM
-
-▪️Monitoring/SRE
-
-▪️Prometheus, Grafana, Nagios, Dynatrace
-
-▪️Automation/Scripting
-
-▪️Bash, Go, YAML, GitHub Actions, Powershell
+▪️Automation/Scripting: Bash, Go, YAML, GitHub Actions, Powershell
 
 ## Portfolio & Collaboration
 
