@@ -1,20 +1,28 @@
-## Senior Infrastructure Engineer | U.S. Navy Veteran
+Senior Infrastructure Engineer | U.S. Navy Veteran
+Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well-maintained documentation to be a feature, not a bug.
 
-Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well maintained documentation to be a feature, not a bug.
+What I Build:
+Resilient Kubernetes clusters architected for Hybrid Cloud and bare-metal environments
 
-**What I Build:**
-- Production Kubernetes clusters (hybrid cloud + bare metal)
-- Zero-trust security architectures with comprehensive RBAC
-- Automated infrastructure provisioning and deployment pipelines
-- Full-stack observability and monitoring solutions
+Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration
 
-**Tech Stack:**
-- **Cloud-Native:** Kubernetes, Docker, GCP
-- **Infrastructure as Code:** Terraform, Ansible
-- **Systems:** Linux (RHEL, Ubuntu, Alpine), Networking
-- **Monitoring:** Prometheus, Grafana, Nagios, Dynatrace  
-- **Automation:** Bash, Go, YAML
+Automated infrastructure provisioning and deployment pipelines (CI/CD)
+
+Full-stack observability and monitoring solutions (Prometheus/Grafana)
+
+Tech Stack:
+Cloud-Native: Kubernetes, Docker, GCP
+
+Infrastructure as Code: Terraform, Ansible
+
+Systems: Linux (RHEL, Ubuntu), Networking, ProxMox
+
+Monitoring: Prometheus, Grafana, Nagios, Dynatrace
+
+Automation: Bash, Go, YAML
 
 This portfolio demonstrates systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
 
-*Always interested in collaborating with other infrastructure engineers and contributing to open source projects.*
+Proof of Concept: See the complete GCP/ProxMox Hybrid Cloud Kubernetes demonstration on my LinkedIn profile: [Your LinkedIn Post URL Here]
+
+Always interested in collaborating with other infrastructure engineers and contributing to open source projects.
