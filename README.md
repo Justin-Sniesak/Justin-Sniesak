@@ -1,7 +1,9 @@
-Senior Infrastructure Engineer | U.S. Navy Veteran
+## Senior Infrastructure Engineer | U.S. Navy Veteran
+
 Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well-maintained documentation to be a feature, not a bug.
 
-What I Build:
+## What I Build:
+
 Resilient Kubernetes clusters architected for Hybrid Cloud and bare-metal environments
 
 Zero-trust security architectures with comprehensive RBAC and service mesh (Istio) integration
@@ -10,7 +12,8 @@ Automated infrastructure provisioning and deployment pipelines (CI/CD)
 
 Full-stack observability and monitoring solutions (Prometheus/Grafana)
 
-Tech Stack:
+## Tech Stack:
+
 Cloud-Native: Kubernetes, Docker, GCP
 
 Infrastructure as Code: Terraform, Ansible
@@ -23,6 +26,6 @@ Automation: Bash, Go, YAML
 
 This portfolio demonstrates systematic implementation of complex infrastructure with thorough documentation and real-world production experience.
 
-Proof of Concept: See the complete GCP/ProxMox Hybrid Cloud Kubernetes demonstration on my LinkedIn profile: [Your LinkedIn Post URL Here]
+## Proof of Concept: See the complete GCP/ProxMox Hybrid Cloud Kubernetes demonstration on my LinkedIn profile: [Your LinkedIn Post URL Here]
 
 Always interested in collaborating with other infrastructure engineers and contributing to open source projects.
