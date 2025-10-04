@@ -1,4 +1,4 @@
-## Senior Infrastructure Engineer | U.S. Navy Veteran
+## Infrastructure Engineer | U.S. Navy Veteran
 
 Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well-maintained documentation to be a feature, not a bug.
 
