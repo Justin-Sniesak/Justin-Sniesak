@@ -10,6 +10,8 @@ My focus is on end-to-end platform architecture and SRE practices across various
 
 ▪️Full-stack observability and monitoring solutions (Prometheus, Grafana).
 
+▪️Full CI/CD pipeline via Go -> Docker image -> GitHub actions pipeline -> GCP artifact repo.
+
 ## Core Tech Stack
 
 ▪️Tools & Technologies
