@@ -14,8 +14,6 @@ My focus is on end-to-end platform architecture and SRE practices across various
 
 ## Core Tech Stack
 
-▪️Tools & Technologies
-
 ▪️Cloud-Native: Kubernetes, Docker, GCP
 
 ▪️Infrastructure as Code: Terraform, Ansible
