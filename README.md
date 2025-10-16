@@ -1,6 +1,6 @@
 ## Infrastructure Engineer | U.S. Navy Veteran
 
-Building reliable, scalable infrastructure systems with a strong bias towards action and ownership. I consider well-maintained documentation to be a feature, not a bug.
+I have a strong dislike of manual work. If I see a process that requires human intervention more than once, I build automation to eliminate it. Over 10 years, this mindset has driven me from managing 5,000+ Linux servers with Ansible to building cloud-native Kubernetes platforms on GCP with full infrastructure-as-code. I recently automated my portfolio site updates using GitHub Actions and Jekyll because updating them manually felt like 2017. I thrive in environments that value systematic problem-solving, infrastructure automation, and engineers who can't help but fix broken processes.
 
 My focus is on end-to-end platform architecture and SRE practices across various environments:
 
