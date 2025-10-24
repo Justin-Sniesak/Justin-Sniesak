@@ -1,12 +1,15 @@
-## Site Reliability Engineer building tools for production reliability and observability.
+## Site Reliability Engineer | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation 
 
-I keep production systems running and automate everything that breaks more than once. Currently focused on cloud-native SRE: Kubernetes troubleshooting, Go-based automation tools, and observability platforms (Prometheus, DataDog, OpenTelemetry).
-What you'll find here:
+Building production-grade, self-healing, observable systems with Kubernetes, Terraform, Go, and GitHub Actions. Experienced in multi-cloud (GCP + AWS) and hybrid on-prem environments, designing platforms that scale, automate repetitive tasks, and reduce operational toil.
 
-Production-grade Kubernetes labs with full observability stacks
-Hybrid cloud infrastructure (AWS/on-prem) with site-to-site VPN
-Go CI/CD pipelines and automation tools
-Infrastructure as Code (Terraform, Ansible)
-Documented troubleshooting and incident response procedures
+My projects span:
 
-All projects follow SRE best practices: IaC, monitoring, runbooks, and comprehensive documentation.
+- Cloud-Native SRE Platforms with automated Prometheus observability and multi-tenant Kubernetes environments
+
+- Go-based CI/CD pipelines for containerized workloads and registry orchestration
+
+- Hybrid Cloud Integrations with AWS, ProxMox, and DataDog observability migrations
+
+- Portfolio Automation pipelines using GitHub Actions & Jekyll
+
+I thrive on root cause analysis, observability design, and eliminating manual toil—if a process needs human intervention twice, it’s getting automated.
