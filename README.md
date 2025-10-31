@@ -1,4 +1,4 @@
-## Site Reliability Engineer | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation
+## Infrastructure Engineer | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation
 
 Building production-grade, self-healing, observable systems with **Kubernetes**, **Terraform**, **Go**, and **GitHub Actions**. Experienced in multi-cloud (GCP + AWS) and hybrid on-prem environments, designing platforms that scale, automate repetitive tasks, and eliminate operational toil.
 
