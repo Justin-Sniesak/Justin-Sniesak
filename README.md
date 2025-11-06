@@ -1,22 +1,49 @@
-## Infrastructure Engineer – Site Reliability and Platform Engineering | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation  
-
-I fix broken infrastructure and automate everything so no one gets woken up twice for the same issue — then I document the fix so it never happens again. 10+ years keeping distributed systems alive: managing 5,000+ Linux servers, building Kubernetes platforms, and removing operational toil one script at a time. Navy veteran in Seattle, obsessed with automation and accurate documentation.  
-
-I learn fast, solve what others avoid, and can write or troubleshoot Kubernetes manifests all day without blinking. Recently built a hybrid-cloud S2S VPN in 13 hours — first time — because I like hard problems and hate downtime.  
+# 👨‍💻 Justin Sniesak  
+**Platform & Site Reliability Engineer | Cloud-Native | Kubernetes | Terraform | Go | Automation**  
+📍 Seattle, WA | [LinkedIn](https://linkedin.com/in/justinsniesak) | [GitHub Portfolio](https://github.com/Justin-Sniesak)
 
 ---
 
-### **Highlighted Projects**
-- **Cloud-Native SRE Platforms** – Automated Prometheus observability and multi-tenant Kubernetes environments  
-- **Go CI/CD Pipelines** – Containerized builds, registry authentication, and deployment orchestration  
-- **Hybrid Cloud Integrations** – AWS + GCP + ProxMox environments unified through DataDog observability  
-- **Platform Engineering Lab** – Terraform-driven hybrid cloud with Kubernetes, WireGuard VPN, and IaC automation  
-- **Portfolio Automation** – GitHub Actions + Jekyll pipelines for continuous documentation deployment  
+## 🧩 About Me  
+Navy veteran and Platform Engineer in Seattle building and running multi-cloud and hybrid infrastructure.  
+10+ years managing large-scale systems—from 5,000+ Linux servers to full Kubernetes and IaC deployments.  
+I build resilient platforms, automate relentlessly, and document everything for the next engineer.
+
+> “If a process needs human intervention twice, it gets automated.”
 
 ---
 
-I thrive on root-cause analysis, observability design, and eliminating manual toil.  
-If your monitoring stack is held together with duct tape and optimism, I’ll fix it.  
+## ⚙️ Featured Projects
+
+### 🧠 Cloud-Native Infrastructure Engineering Lab  
+**Stack:** Kubernetes, Terraform, Prometheus, DataDog, Go, GCP, AWS  
+Built hybrid infra across AWS/GCP/ProxMox with Kubernetes multi-tenancy, Zero Trust, and observability.  
+⏱️ Terraform cut provisioning from 6h → 5m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs  
+🔗 [View Repo](https://github.com/Justin-Sniesak/Cloud-Native-Infrastructure-Lab)
+
+---
+
+### ☁️ AWS Hybrid Cloud + DataDog Migration  
+**Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog  
+Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
+6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
+🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-Hybrid-Cloud-DataDog)
+
+---
+
+### 🔄 Go + Docker + GitHub Actions CI/CD  
+**Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
+Containerized a Go app and built CI/CD from build → test → deploy.  
+Automated tagging and artifact push to GCP with fully documented failures and fixes.  
+🔗 [View Repo](https://github.com/Justin-Sniesak/go-docker-githubactions-pipeline)
+
+---
+
+### 📚 Systematic Go Learning  
+**Stack:** Go, Linux (Ubuntu)  
+Structured Go learning repository focused on fundamentals → data structures → control flow.  
+Full logs, screenshots, and debugging notes across 30+ exercises.  
+🔗 [View Repo](https://github.com/Justin-Sniesak/Systematic-Go-Learning)
 
 ---
 
