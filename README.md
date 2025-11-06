@@ -18,7 +18,7 @@ I build resilient platforms, automate relentlessly, and document everything for 
 **Stack:** Kubernetes, Terraform, Prometheus, DataDog, Go, GCP, AWS  
 Built hybrid infra across AWS/GCP/ProxMox with Kubernetes multi-tenancy, Zero Trust, and observability.  
 ⏱️ Terraform cut provisioning from 6h → 5m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs  
-🔗 [View Repo]((https://justin-sniesak.github.io/Platform-Engineering-Lab/))
+🔗 [View Repo][((https://justin-sniesak.github.io/Platform-Engineering-Lab/))](https://justin-sniesak.github.io/Platform-Engineering-Lab/)
 
 ---
 
