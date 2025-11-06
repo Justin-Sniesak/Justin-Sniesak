@@ -1,6 +1,5 @@
 # 👨‍💻 Justin Sniesak  
 **Platform & Site Reliability Engineer | Cloud-Native | Kubernetes | Terraform | Go | Automation**  
-📍 Seattle, WA | [LinkedIn](https://linkedin.com/in/justinsniesak) | [GitHub Portfolio](https://github.com/Justin-Sniesak)
 
 ---
 
