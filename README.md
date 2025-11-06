@@ -18,7 +18,7 @@ I build resilient platforms, automate relentlessly, and document everything for 
 **Stack:** Kubernetes, Terraform, Prometheus, DataDog, Go, GCP, AWS  
 Built hybrid infra across AWS/GCP/ProxMox with Kubernetes multi-tenancy, Zero Trust, and observability.  
 ⏱️ Terraform cut provisioning from 6h → 5m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs  
-🔗 [View Repo](https://github.com/Justin-Sniesak/Cloud-Native-Infrastructure-Lab)
+🔗 [View Repo]((https://justin-sniesak.github.io/Platform-Engineering-Lab/))
 
 ---
 
@@ -34,7 +34,7 @@ Deployed site-to-site VPN and migrated observability from Prometheus → DataDog
 **Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
 Containerized a Go app and built CI/CD from build → test → deploy.  
 Automated tagging and artifact push to GCP with fully documented failures and fixes.  
-🔗 [View Repo](https://github.com/Justin-Sniesak/go-docker-githubactions-pipeline)
+🔗 [View Repo]((https://justin-sniesak.github.io/Golang/))
 
 ---
 
