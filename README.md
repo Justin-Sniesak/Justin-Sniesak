@@ -14,7 +14,7 @@ I build resilient platforms, automate relentlessly, and document everything for 
 
 ## ⚙️ Featured Projects
 
-### 🧠 Cloud-Native Infrastructure Engineering Lab  
+### 🧠 Platform Engineering Lab  
 **Stack:** Kubernetes, Terraform, Prometheus, DataDog, Go, GCP, AWS  
 Built hybrid infra across AWS/GCP/ProxMox with Kubernetes multi-tenancy, Zero Trust, and observability.  
 ⏱️ Terraform cut provisioning from 6h → 5m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs  
@@ -26,7 +26,7 @@ Built hybrid infra across AWS/GCP/ProxMox with Kubernetes multi-tenancy, Zero Tr
 **Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog  
 Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
 6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
-🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-Hybrid-Cloud-DataDog)
+🔗 [View Repo][(https://github.com/Justin-Sniesak/AWS-Hybrid-Cloud-DataDog)](https://justin-sniesak.github.io/AWS-HybridCloud-Prometheus-DataDog-Migration/)
 
 ---
 
@@ -34,7 +34,7 @@ Deployed site-to-site VPN and migrated observability from Prometheus → DataDog
 **Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
 Containerized a Go app and built CI/CD from build → test → deploy.  
 Automated tagging and artifact push to GCP with fully documented failures and fixes.  
-🔗 [View Repo]((https://justin-sniesak.github.io/Golang/))
+🔗 [View Repo][[((https://justin-sniesak.github.io/Golang/))](https://justin-sniesak.github.io/Golang/)
 
 ---
 
@@ -42,7 +42,7 @@ Automated tagging and artifact push to GCP with fully documented failures and fi
 **Stack:** Go, Linux (Ubuntu)  
 Structured Go learning repository focused on fundamentals → data structures → control flow.  
 Full logs, screenshots, and debugging notes across 30+ exercises.  
-🔗 [View Repo](https://github.com/Justin-Sniesak/Systematic-Go-Learning)
+🔗 [View Repo][(https://github.com/Justin-Sniesak/Systematic-Go-Learning)](https://justin-sniesak.github.io/Golang/)
 
 ---
 
