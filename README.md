@@ -23,7 +23,7 @@ Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, i
 ---
 
 ### ☁️ AWS Hybrid Cloud + DataDog Migration  
-**Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog  
+**Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog, Prometheus
 Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
 6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
 🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-HybridCloud-Prometheus-DataDog-Migration)
