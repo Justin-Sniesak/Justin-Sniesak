@@ -24,7 +24,7 @@ If your monitoring stack is held together with duct tape and optimism, I’ll fi
   <summary>🧭 <b>Full Roadmap: 2025–2026 Platform Engineering Lab</b></summary>
 
 **Phase 1: CI/CD Expansion & Go Mastery**  
-- Complete Go Beginner/Intermediate & Advanced courses (KodeKloud).  
+- Complete Go Intermediate & Advanced courses.  
 - Dockerize new Go applications and connect pipelines to GCP Artifact Registry.  
 - Deploy and validate GKE clusters with ArgoCD for continuous delivery.  
 - Implement Pub/Sub + Secrets Manager for API key rotation and alerts.  
