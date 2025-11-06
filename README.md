@@ -1,14 +1,47 @@
-## Infrastructure Engineer - Site Reliability and Platform Engineering focus | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation
+## Infrastructure Engineer – Site Reliability and Platform Engineering | Navy Vet | Cloud-Native Platforms | IaC | Kubernetes | Automation  
 
-I fix broken infrastructure and automate all the things so you don't have to wake me up at 3am twice for the same thing - then I'll give you a new runbook anyone can follow for what I fixed the following workday. 10+ years keeping distributed systems alive—managed 5,000+ server fleets, built Kubernetes platforms, and eliminated operational toil one script at a time. Navy veteran in Seattle who automates any manual processes I can get approval for, and will fix all of your incomplete and missing documentation.
+I fix broken infrastructure and automate everything so no one gets woken up twice for the same issue — then I document the fix so it never happens again. 10+ years keeping distributed systems alive: managing 5,000+ Linux servers, building Kubernetes platforms, and removing operational toil one script at a time. Navy veteran in Seattle, obsessed with automation and accurate documentation.  
 
-I learn inhumanly fast, and I can write and troubleshoot Kubernetes manifests all day and never get bored. If your infrastructure has less stability than a Michigan winter, and you are running with a monitoring stack held together with thoughts and prayers, I'm your engineer. Recently architected and deployed a hybrid cloud S2S VPN in 13 hours never having done it before because I love technical challenges that I can grow from, staying busy, and helping the team win.
+I learn fast, solve what others avoid, and can write or troubleshoot Kubernetes manifests all day without blinking. Recently built a hybrid-cloud S2S VPN in 13 hours — first time — because I like hard problems and hate downtime.  
 
-**Highlighted Projects:**
+---
 
+### **Highlighted Projects**
 - **Cloud-Native SRE Platforms** – Automated Prometheus observability and multi-tenant Kubernetes environments  
 - **Go CI/CD Pipelines** – Containerized builds, registry authentication, and deployment orchestration  
-- **Hybrid Cloud Integrations** – AWS + ProxMox environments with unified DataDog observability  
+- **Hybrid Cloud Integrations** – AWS + GCP + ProxMox environments unified through DataDog observability  
+- **Platform Engineering Lab** – Terraform-driven hybrid cloud with Kubernetes, WireGuard VPN, and IaC automation  
 - **Portfolio Automation** – GitHub Actions + Jekyll pipelines for continuous documentation deployment  
 
-I thrive on **root cause analysis, observability design, and removing manual toil**—if a process needs human intervention twice, it gets automated.
+---
+
+I thrive on root-cause analysis, observability design, and eliminating manual toil.  
+If your monitoring stack is held together with duct tape and optimism, I’ll fix it.  
+
+---
+
+<details>
+  <summary>🧭 <b>Full Roadmap: 2025–2026 Platform Engineering Lab</b></summary>
+
+**Phase 1: CI/CD Expansion & Go Mastery**  
+- Complete Go Beginner/Intermediate & Advanced courses (KodeKloud).  
+- Dockerize new Go applications and connect pipelines to GCP Artifact Registry.  
+- Deploy and validate GKE clusters with ArgoCD for continuous delivery.  
+- Implement Pub/Sub + Secrets Manager for API key rotation and alerts.  
+
+**Phase 2: Hybrid Cloud Expansion**  
+- Extend Terraform manifests to connect GCP → ProxMox via WireGuard S2S VPN.  
+- Provision Talos on-prem clusters and enable full region redundancy.  
+- Integrate Prometheus + Grafana dashboards across both clusters.  
+
+**Phase 3: Advanced Observability & FinOps**  
+- Complete Prometheus Certified Associate and OpenTelemetry courses.  
+- Deploy OTel collectors, Loki, and OpenCost for tracing, logging, and cost analytics.  
+- Build unified dashboards covering latency, uptime, CPU/mem/disk, and FinOps metrics.  
+
+**Phase 4: MLOps & Intelligent Automation**  
+- Deploy TensorFlow CIFAR training workloads on GKE (GPU-enabled).  
+- Integrate Terraform Cloud, Crossplane, and Backstage for advanced orchestration.  
+- Build self-healing pipelines and AI-assisted drift detection utilities in Go.  
+
+</details>
