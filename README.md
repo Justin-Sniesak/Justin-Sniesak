@@ -19,7 +19,7 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 - Built a complete end-to-end GitOps CI/CD pipeline from scratch — Go code to production on GKE in 7 hours.
 - Implemented GitHub Actions for automated builds, GCP Artifact Registry for image management, and ArgoCD for continuous delivery.
 - Validated full deployment lifecycle including intentional pod failures, permissions hardening, and service account RBAC.
-- Fully documented with architecture diagram, runbook, and 50+ screenshots.
+- 🧾 Fully documented with architecture diagram, runbook, and 50+ screenshots.
 🔗 [View Repo](https://justin-sniesak.github.io/GCP-Argo-GHA-Pipeline/)
 
 ---
@@ -51,7 +51,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 ### 📚 Systematic Go Learning  
 **Stack:** Go, Linux (Ubuntu)  
 - Structured Go learning repository focused on fundamentals → data structures → control flow.  
-- Full logs, screenshots, and debugging notes across 30+ exercises.  
+- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises.  
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
 
 ---
