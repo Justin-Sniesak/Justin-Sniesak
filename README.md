@@ -1,5 +1,5 @@
 # 👨‍💻 Justin Sniesak  
-**Platform & Site Reliability Engineer | Cloud-Native | Kubernetes | Terraform | Go | Automation**  
+**Platform & Site Reliability Engineer | Cloud-Native | Kubernetes | Terraform | Go | Automation | CI\CD Pipelines**  
 
 ---
 
