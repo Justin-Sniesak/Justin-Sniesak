@@ -16,17 +16,17 @@ I build resilient platforms, automate relentlessly, and document everything for 
 
 ### 🧩 ArgoCD + GKE CI/CD Pipeline Lab
 Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
-Built a complete end-to-end GitOps CI/CD pipeline from scratch — Go code to production on GKE in 7 hours.
-Implemented GitHub Actions for automated builds, GCP Artifact Registry for image management, and ArgoCD for continuous delivery.
-Validated full deployment lifecycle including intentional pod failures, permissions hardening, and service account RBAC.
-Fully documented with architecture diagram, runbook, and 50+ screenshots.
+- Built a complete end-to-end GitOps CI/CD pipeline from scratch — Go code to production on GKE in 7 hours.
+- Implemented GitHub Actions for automated builds, GCP Artifact Registry for image management, and ArgoCD for continuous delivery.
+- Validated full deployment lifecycle including intentional pod failures, permissions hardening, and service account RBAC.
+- Fully documented with architecture diagram, runbook, and 50+ screenshots.
 🔗 [View Repo](https://github.com/Justin-Sniesak/Platform-Engineering-Lab)
 
 ---
 
 ### 🧠 Platform Engineering Lab  
 Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox   
-Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, integrated with GCP and ProxMox for hybrid operations. Implemented Istio, RBAC, and Zero-Trust controls with full observability.
+- Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, integrated with GCP and ProxMox for hybrid operations. Implemented Istio, RBAC, and Zero-Trust controls with full observability.
 ⏱️ Terraform cut provisioning from 6 h → 5 m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs   
 🔗 [View Repo](https://github.com/Justin-Sniesak/Platform-Engineering-Lab)
 
@@ -34,24 +34,24 @@ Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, i
 
 ### ☁️ AWS Hybrid Cloud + DataDog Migration  
 **Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog, Prometheus
-Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
-6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
+- Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
+- 6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
 🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-HybridCloud-Prometheus-DataDog-Migration)
 
 ---
 
 ### 🔄 Go + Docker + GitHub Actions CI/CD  
 **Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
-Containerized a Go app and built CI/CD from build → test → deploy.  
-Automated tagging and artifact push to GCP with fully documented failures and fixes.  
+- Containerized a Go app and built CI/CD from build → test → deploy.  
+- Automated tagging and artifact push to GCP with fully documented failures and fixes.  
 🔗 [View Repo](https://justin-sniesak.github.io/go-docker-githubactions-pipeline/)
 
 ---
 
 ### 📚 Systematic Go Learning  
 **Stack:** Go, Linux (Ubuntu)  
-Structured Go learning repository focused on fundamentals → data structures → control flow.  
-Full logs, screenshots, and debugging notes across 30+ exercises.  
+- Structured Go learning repository focused on fundamentals → data structures → control flow.  
+- Full logs, screenshots, and debugging notes across 30+ exercises.  
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
 
 ---
@@ -61,11 +61,9 @@ Full logs, screenshots, and debugging notes across 30+ exercises.
 
 **Phase 1: CI/CD Expansion & Go Mastery**  
 - Complete Go Intermediate & Advanced courses.  
-- Dockerize new Go applications and connect pipelines to GCP Artifact Registry.  
-- Deploy and validate GKE clusters with ArgoCD for continuous delivery.  
-- Implement Pub/Sub + Secrets Manager for API key rotation and alerts.  
 
 **Phase 2: Hybrid Cloud Expansion**  
+- Implement Pub/Sub + Secrets Manager for API key rotation and alerts.  
 - Extend Terraform manifests to connect GCP → ProxMox via WireGuard S2S VPN.  
 - Provision Talos on-prem clusters and enable full region redundancy.  
 - Integrate Prometheus + Grafana dashboards across both clusters.  
