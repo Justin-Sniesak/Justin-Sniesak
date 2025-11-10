@@ -20,6 +20,7 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 - Implemented GitHub Actions for automated builds, GCP Artifact Registry for image management, and ArgoCD for continuous delivery.
 - Validated full deployment lifecycle including intentional pod failures, permissions hardening, and service account RBAC.
 - 🧾 Fully documented with architecture diagram, runbook, and 50+ screenshots.
+
 🔗 [View Repo](https://justin-sniesak.github.io/GCP-Argo-GHA-Pipeline/)
 
 ---
