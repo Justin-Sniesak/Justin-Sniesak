@@ -27,7 +27,7 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 ### 🧠 Platform Engineering Lab  
 Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox   
 - Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, integrated with GCP and ProxMox for hybrid operations. Implemented Istio, RBAC, and Zero-Trust controls with full observability.
-⏱️ Terraform cut provisioning from 6 h → 5 m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs   
+- ⏱️ Terraform cut provisioning from 6 h → 5 m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs   
 🔗 [View Repo](https://github.com/Justin-Sniesak/Platform-Engineering-Lab)
 
 ---
