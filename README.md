@@ -29,6 +29,7 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox   
 - Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, integrated with GCP and ProxMox for hybrid operations. Implemented Istio, RBAC, and Zero-Trust controls with full observability.
 - ⏱️ Terraform cut provisioning from 6 h → 5 m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs   
+
 🔗 [View Repo](https://github.com/Justin-Sniesak/Platform-Engineering-Lab)
 
 ---
@@ -37,6 +38,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 **Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog, Prometheus
 - Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
 - 6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
+
 🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-HybridCloud-Prometheus-DataDog-Migration)
 
 ---
@@ -45,6 +47,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 **Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
 - Containerized a Go app and built CI/CD from build → test → deploy.  
 - Automated tagging and artifact push to GCP with fully documented failures and fixes.  
+
 🔗 [View Repo](https://justin-sniesak.github.io/go-docker-githubactions-pipeline/)
 
 ---
@@ -53,6 +56,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 **Stack:** Go, Linux (Ubuntu)  
 - Structured Go learning repository focused on fundamentals → data structures → control flow.  
 - 🧾 Full logs, screenshots, and debugging notes across 30+ exercises.  
+
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
 
 ---
