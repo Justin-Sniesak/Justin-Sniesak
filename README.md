@@ -5,7 +5,7 @@
 
 ## 🧩 About Me  
 Navy veteran and Platform Engineer in Seattle building and running multi-cloud and hybrid infrastructure.  
-10+ years managing large-scale systems—from 5,000+ Linux servers to full Kubernetes and IaC deployments.  
+10+ years managing large-scale systems.  
 I build resilient platforms, automate relentlessly, and document everything for the next engineer.
 
 > “If a process needs human intervention twice, it gets automated.”
