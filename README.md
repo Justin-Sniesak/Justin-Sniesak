@@ -53,9 +53,9 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 ---
 
 ### 📚 Systematic Go Learning  
-**Stack:** Go, Linux (Ubuntu)  
-- Structured Go learning repository focused on fundamentals → data structures → control flow.  
-- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises.  
+**Stack:** Go, MacOS
+- Structured Go learning repository focused on fundamentals → intermidiate → advanced  
+- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises. CLI tooling now in repo.
 
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
 
