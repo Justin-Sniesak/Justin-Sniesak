@@ -52,35 +52,10 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ---
 
-### 📚 Systematic Go Learning  
-**Stack:** Go, MacOS
-- Structured Go learning repository focused on fundamentals → intermidiate → advanced  
-- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises. CLI tooling now in repo.
+### 📚 Systematic Go Learning
+**Stack:** Golang, MacOS
+- Structured Go learning repository: fundamentals → intermediate → advanced
+- Demonstrates CLI tooling (tax/tip calculator with closures), structs, methods, and higher-order functions
+🧾 Full logs, screenshots, and debugging notes across 30+ exercises
 
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
-
----
-
-<details>
-  <summary>🧭 <b>Full Roadmap: 2025–2026 Platform Engineering Lab</b></summary>
-
-**Phase 1: CI/CD Expansion & Go Mastery**  
-- Complete Go Intermediate & Advanced courses.  
-
-**Phase 2: Hybrid Cloud Expansion**  
-- Implement Pub/Sub + Secrets Manager for API key rotation and alerts.  
-- Extend Terraform manifests to connect GCP → ProxMox via WireGuard S2S VPN.  
-- Provision Talos on-prem clusters and enable full region redundancy.  
-- Integrate Prometheus + Grafana dashboards across both clusters.  
-
-**Phase 3: Advanced Observability & FinOps**  
-- Complete Prometheus Certified Associate and OpenTelemetry courses.  
-- Deploy OTel collectors, Loki, and OpenCost for tracing, logging, and cost analytics.  
-- Build unified dashboards covering latency, uptime, CPU/mem/disk, and FinOps metrics.  
-
-**Phase 4: MLOps & Intelligent Automation**  
-- Deploy TensorFlow CIFAR training workloads on GKE (GPU-enabled).  
-- Integrate Terraform Cloud, Crossplane, and Backstage for advanced orchestration.  
-- Build self-healing pipelines and AI-assisted drift detection utilities in Go.  
-
-</details>
