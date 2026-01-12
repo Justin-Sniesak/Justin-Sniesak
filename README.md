@@ -52,7 +52,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ---
 
-### 🔐 Kubernetes Cilium Zero-Trust Networking Lab
+### 🔐 Kubernetes Cilium Zero-Trust Networking 
 **Stack**: Kubernetes (kubeadm) · Cilium · Hubble · containerd · Helm · Parallels (ARM)
 -Built a three-node Kubernetes cluster from scratch using kubeadm and containerd on ARM-based VMs.
 -Replaced kube-proxy with Cilium and implemented identity-based, namespace-scoped zero-trust network policies.
