@@ -52,6 +52,19 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ---
 
+### 🔐 Kubernetes Cilium Zero-Trust Networking Lab
+**Stack**: Kubernetes (kubeadm) · Cilium · Hubble · containerd · Helm · Parallels (ARM)
+-Built a three-node Kubernetes cluster from scratch using kubeadm and containerd on ARM-based VMs.
+-Replaced kube-proxy with Cilium and implemented identity-based, namespace-scoped zero-trust network policies.
+-Designed explicit ingress and egress controls for client, edge, and backend workloads, including DNS allowlisting.
+-Validated policy enforcement at the dataplane using cilium-dbg and Hubble UI/CLI, including dropped traffic analysis.
+-Troubleshot real-world failure modes including container runtime incompatibilities, CNI routing mode mismatches, and silent namespace-scoping errors.
+-Fully documented with architecture diagram, detailed ops log, and enforcement validation screenshots.
+
+🔗 View Repo: https://github.com/Justin-Sniesak/kubernetes-cilium-zerotrust-architecture
+
+---
+
 ### 📚 Systematic Go Learning
 **Stack:** Golang, MacOS
 - Structured Go learning repository: fundamentals → intermediate → advanced
