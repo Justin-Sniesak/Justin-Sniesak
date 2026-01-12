@@ -61,7 +61,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 - Troubleshot real-world failure modes including container runtime incompatibilities, CNI routing mode mismatches, and silent namespace-scoping errors.
 - Fully documented with architecture diagram, detailed ops log, and enforcement validation screenshots.
 
-🔗 View Repo: https://github.com/Justin-Sniesak/kubernetes-cilium-zerotrust-architecture
+🔗 [View Repo](https://github.com/Justin-Sniesak/kubernetes-cilium-zerotrust-architecture)
 
 ---
 
