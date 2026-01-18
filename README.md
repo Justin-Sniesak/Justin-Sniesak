@@ -80,3 +80,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 🧾 Full logs, screenshots, and debugging notes across 30+ exercises
 
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
+
+---
+
+- All documentation and project sites listed here are automatically generated and deployed via custom GitHub Actions CI/CD pipelines. If it can be automated, it is.
