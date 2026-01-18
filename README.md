@@ -4,11 +4,23 @@
 ---
 
 ## 🧩 About Me  
-Navy veteran and Platform Engineer in Seattle building and running multi-cloud and hybrid infrastructure.  
-10+ years managing large-scale systems.  
-I build resilient platforms, automate relentlessly, and document everything for the next engineer.
+## Hi, I'm Justin 👋 
 
-> “If a process needs human intervention twice, it gets automated.”
+I’m a **Senior Platform Engineer & SRE** based in Seattle. I specialize in building deterministic infrastructure and high-performance observability.
+
+### 🛠️ What I'm working on:
+- **Cloud Native:** Architecting zero-trust Kubernetes networking with **Cilium & eBPF**.
+- **Systems Coding:** Writing **Go** for CLI tools and automation to replace manual toil.
+- **Infrastructure:** Managing hybrid-cloud scale with **Terraform** and **GitOps (ArgoCD)**.
+
+### ⚓ The "Operational Scar Tissue":
+- Former **Senior Incident Commander** for a 5,000+ server Fintech fleet.
+- Managed 13-hour "Sunday War Room" production recoveries.
+- Navy Veteran (Combat Deployment) — I stay calm when the cluster is on fire.
+
+### 🚀 Technical Stats:
+- **Languages:** Go, Bash, YAML.
+- **Tools:** K8s (GKE/kubeadm), Terraform, Ansible, Grafana, Hubble.
 
 ---
 
