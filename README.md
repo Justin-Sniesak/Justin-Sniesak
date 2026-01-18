@@ -6,21 +6,17 @@
 ## 🧩 About Me  
 ## Hi, I'm Justin 👋 
 
-I’m a **Senior Platform Engineer & SRE** based in Seattle. I specialize in building deterministic infrastructure and high-performance observability.
+Senior SRE & Platform Engineer specializing in high-scale infrastructure and deterministic automation.
 
-### 🛠️ What I'm working on:
-- **Cloud Native:** Architecting zero-trust Kubernetes networking with **Cilium & eBPF**.
-- **Systems Coding:** Writing **Go** for CLI tools and automation to replace manual toil.
-- **Infrastructure:** Managing hybrid-cloud scale with **Terraform** and **GitOps (ArgoCD)**.
+Languages: Go, Bash, YAML
 
-### ⚓ The "Operational Scar Tissue":
-- Former **Senior Incident Commander** for a 5,000+ server Fintech fleet.
-- Managed 13-hour "Sunday War Room" production recoveries.
-- Navy Veteran (Combat Deployment) — I stay calm when the cluster is on fire.
+Platforms: Kubernetes (GKE, kubeadm), Linux (RHEL, Ubuntu, Alpine), ESXi
 
-### 🚀 Technical Stats:
-- **Languages:** Go, Bash, YAML.
-- **Tools:** K8s (GKE/kubeadm), Terraform, Ansible, Grafana, Hubble.
+Networking: Cilium (eBPF), Zero-Trust Policies, Hubble, DNS (Infoblox)
+
+IaC: Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD
+
+Background: Senior Incident Commander (FinTech) & Navy Veteran.
 
 ---
 
