@@ -12,9 +12,13 @@ Languages: Go, Bash, YAML
 
 Platforms: Kubernetes (GKE, kubeadm), Linux (RHEL, Ubuntu, Alpine), ESXi
 
-Networking: Cilium (eBPF), Zero-Trust Policies, Hubble, DNS (Infoblox)
+Cloud: GCP
 
-IaC: Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD
+Monitoring/Observability: Prometheus, Grafana, Node Exporter, DataDog
+
+Networking: Cilium, Zero-Trust Policies, Hubble, DNS (Infoblox)
+
+IaC: Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD, GitHub Actions
 
 Background: Senior Incident Commander (FinTech) & Navy Veteran.
 
