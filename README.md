@@ -1,26 +1,23 @@
-# 👨‍💻 Justin Sniesak  
-**Platform & Site Reliability Engineer | Cloud-Native | Kubernetes | Terraform | Ansible | Linux (Ubuntu/RHEL) | Cilium | Go | GCP | Automation | CI/CD Pipelines**  
+# 👨‍💻 Justin Sniesak  
+**Senior Site Reliability Engineer | Go, Cilium, K8s, Linux, Networking | 5k+ Node Scale**  
 
 ---
 
-## 🧩 About Me  
-## Hi, I'm Justin 👋 
+## 🧩 About Me  
+## Hi, I'm Justin 👋 
 
-Senior SRE & Platform Engineer specializing in high-scale infrastructure and deterministic automation.
+I am a **Senior Site Reliability Engineer (SRE)** and **Navy Veteran** based in Seattle, specializing in high-scale infrastructure and deterministic automation.
 
-Languages: Go, Bash, YAML
+* **The Scale:** Managed a **5,000+ server fleet** (RHEL/Ubuntu) and led critical recovery efforts as a Lead Incident Commander.
+* **The Stack:** Bridging legacy stability with modern cloud-native velocity using **Go, Cilium (eBPF), and Kubernetes**.
+* **The Philosophy:** If it can be automated, I write the code to do it.
 
-Platforms: Kubernetes (GKE, kubeadm), Linux (RHEL, Ubuntu, Alpine), ESXi
-
-Cloud: GCP
-
-Monitoring/Observability: Prometheus, Grafana, Node Exporter, DataDog
-
-Networking: Cilium, Zero-Trust Policies, Hubble, DNS (Infoblox)
-
-IaC: Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD, GitHub Actions
-
-Background: Senior Incident Commander (FinTech) & Navy Veteran.
+**Languages:** Go, Bash, YAML
+**Platforms:** Kubernetes (GKE, kubeadm), Linux (RHEL, Ubuntu, Alpine), ESXi
+**Cloud:** GCP, Hybrid Architecture
+**Observability:** Prometheus, Grafana, OpenTelemetry (OTel), Hubble, DataDog
+**Networking:** Cilium, Zero-Trust Policies, Hubble, DNS (Infoblox)
+**IaC:** Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD, GitHub Actions
 
 ---
 
