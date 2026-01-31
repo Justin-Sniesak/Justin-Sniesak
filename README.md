@@ -1,23 +1,23 @@
 # 👨‍💻 Justin Sniesak  
-**Senior Site Reliability Engineer | Go, Cilium, K8s, Linux, Networking | 5k+ Node Scale**  
+**Senior Site Reliability Engineer | AI Infrastructure, Go, Cilium (eBPF), K8s | 5k+ Node Scale**  
 
 ---
 
 ## 🧩 About Me  
 ## Hi, I'm Justin 👋 
 
-I am a **Senior Site Reliability Engineer (SRE)** and **Navy Veteran** based in Seattle, specializing in high-scale infrastructure and deterministic automation.
+The Scale: Managed 5,000+ server fleets (RHEL/Ubuntu) and currently architecting 1,000-node hyperscale AI simulations.
 
-* **The Scale:** Managed a **5,000+ server fleet** (RHEL/Ubuntu) and led critical recovery efforts as a Lead Incident Commander.
-* **The Stack:** Bridging legacy stability with modern cloud-native velocity using **Go, Cilium (eBPF), and Kubernetes**.
-* **The Philosophy:** If it can be automated, I write the code to do it.
+Current Focus: Hardening the AI data plane using Go, Cilium (eBPF), and GPU-orchestration frameworks like Run:ai.
 
-**Languages:** Go, Bash, YAML
-**Platforms:** Kubernetes (GKE, kubeadm), Linux (RHEL, Ubuntu, Alpine), ESXi
-**Cloud:** GCP, Hybrid Architecture
-**Observability:** Prometheus, Grafana, OpenTelemetry (OTel), Hubble, DataDog
-**Networking:** Cilium, Zero-Trust Policies, Hubble, DNS (Infoblox)
-**IaC:** Terraform, Ansible (Fleet scale: 5,000+ nodes), ArgoCD, GitHub Actions
+The Philosophy: Build for the mission. I prioritize zero-trust security, deep observability, and automation that eliminates "noise."
+
+**Languages:** Go (Golang), Bash, YAML 
+**Platform:** GPU Orchestration (H100), Run:ai, Kubernetes (GKE, kubeadm
+**Networking & Security:** Cilium (Strict eBPF mode), Zero-Trust Policies, Hubble L7 Observability, DNS 
+**Systems:** Linux (RHEL, Ubuntu, Alpine), OrbStack, ESXi, Proxmox 
+**Cloud:** GCP, Hybrid Infrastructure, AWS 
+**IaC & CI/CD:** Terraform, Ansible (5k+ node fleet), ArgoCD, GitHub Actions
 
 ---
 
