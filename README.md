@@ -78,9 +78,25 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 **Stack:** Golang, MacOS
 - Structured Go learning repository: fundamentals → intermediate → advanced
 - Demonstrates CLI tooling (tax/tip calculator with closures), structs, methods, and higher-order functions
-🧾 Full logs, screenshots, and debugging notes across 30+ exercises
+- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises
 
 🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
+
+---
+
+### 🤖 AI Infrastructure & GPU Platform Lab
+
+**Stack:** Kubernetes (Kubeadm) · OrbStack · Cilium (eBPF) · Run:ai · Go · Bash
+
+- Architecting a 9-phase mission evolving from baseline cluster provisioning to 1,000-node hyperscale simulation.
+
+- Implemented Cilium eBPF for strict identity-based networking and Zero-Trust egress policies; verified kernel-level drops of unauthorized C2C and exfiltration traffic.
+
+- Virtualized 8x NVIDIA H100 GPU nodes via Run:ai; validated scheduler precision and resource-driven failure states in high-density AI workloads.
+
+- ⏱️ 100% automated via tested Bash scripts | 🛡️ eBPF-driven Zero-Trust architecture | 🧾 Fully documented with operational logs and Hubble observability receipts.
+
+🔗 [View Repo](https://github.com/Justin-Sniesak/ai-infra-ops)
 
 ---
 
