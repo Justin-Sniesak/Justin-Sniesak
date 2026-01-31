@@ -86,8 +86,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ### 🤖 AI Infrastructure & GPU Platform Lab
 
-**Stack:** Kubernetes (Kubeadm) · OrbStack · Cilium (eBPF) · Run:ai · Go · Bash
-- Architecting a 9-phase mission evolving from baseline cluster provisioning to 1,000-node hyperscale simulation.
+**Stack:** Kubernetes (Kubeadm) · OrbStack · Cilium (eBPF) · Run:ai (H100) · Hubble · Bash 
 - Implemented Cilium eBPF for strict identity-based networking and Zero-Trust egress policies; verified kernel-level drops of unauthorized C2C and exfiltration traffic.
 - Virtualized 8x NVIDIA H100 GPU nodes via Run:ai; validated scheduler precision and resource-driven failure states in high-density AI workloads.
 - ⏱️ 100% automated via tested Bash scripts | 🛡️ eBPF-driven Zero-Trust architecture | 🧾 Fully documented with operational logs and Hubble observability receipts.
