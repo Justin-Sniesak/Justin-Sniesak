@@ -13,7 +13,7 @@ Current Focus: Hardening the AI data plane using Go, Cilium (eBPF), and GPU-orch
 The Philosophy: Build for the mission. I prioritize zero-trust security, deep observability, and automation that eliminates "noise."
 
 - **Languages:** Go (Golang), Bash, YAML 
-- **Platform:** GPU Orchestration (H100), Run:ai, Kubernetes (GKE, kubeadm
+- **Platform:** GPU Orchestration (H100), Run:ai, Kubernetes (GKE, kubeadm)
 - **Networking & Security:** Cilium (Strict eBPF mode), Zero-Trust Policies, Hubble L7 Observability, DNS 
 - **Systems:** Linux (RHEL, Ubuntu, Alpine), OrbStack, ESXi, Proxmox 
 - **Cloud:** GCP, Hybrid Infrastructure, AWS 
