@@ -6,16 +6,16 @@
 ## 🧩 About Me  
 ## Hi, I'm Justin 👋 
 
-The Scale: Managed 5,000+ server fleets (RHEL/Ubuntu) and currently architecting 1,000-node hyperscale AI simulations.
+The Scale: Managed 5,000+ server fleets (RHEL/Ubuntu) and currently architecting 2,000-node hyperscale AI simulations.
 
 Current Focus: Hardening the AI data plane using Go, Cilium (eBPF), and GPU-orchestration frameworks like Run:ai.
 
 The Philosophy: Build for the mission. I prioritize zero-trust security, deep observability, and automation that eliminates "noise."
 
 - **Languages:** Go (Golang), Bash, YAML 
-- **Platform:** GPU Orchestration (H100), Run:ai, Kubernetes (GKE, kubeadm)
+- **Platform:** GPU Orchestration, Run:ai, Kubernetes (GKE, kubeadm, KWOK)
 - **Networking & Security:** Cilium (Strict eBPF mode), Zero-Trust Policies, Hubble L7 Observability, DNS 
-- **Systems:** Linux (RHEL, Ubuntu, Alpine), OrbStack, ESXi, Proxmox 
+- **Systems:** Linux (RHEL, Ubuntu, Alpine), OrbStack
 - **Cloud:** GCP, Hybrid Infrastructure, AWS 
 - **IaC & CI/CD:** Terraform, Ansible (5k+ node fleet), ArgoCD, GitHub Actions
 
@@ -34,24 +34,6 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 
 ---
 
-### ☁️ AWS Hybrid Cloud + DataDog Migration  
-**Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog, Prometheus
-- Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
-- 6 production dashboards, 10+ documented troubleshooting events, and enforced IAM least privilege.  
-
-🔗 [View Repo](https://github.com/Justin-Sniesak/AWS-HybridCloud-Prometheus-DataDog-Migration)
-
----
-
-### 🔄 Go + Docker + GitHub Actions CI/CD  
-**Stack:** Go, Docker, GitHub Actions, GCP Artifact Registry  
-- Containerized a Go app and built CI/CD from build → test → deploy.  
-- Automated tagging and artifact push to GCP with fully documented failures and fixes.  
-
-🔗 [View Repo](https://justin-sniesak.github.io/go-docker-githubactions-pipeline/)
-
----
-
 ### 🔐 Kubernetes Cilium Zero-Trust Networking 
 **Stack**: Kubernetes (kubeadm) · Cilium · Hubble · containerd · Helm · Parallels (ARM)
 - Built a three-node Kubernetes cluster from scratch using kubeadm and containerd on ARM-based VMs.
@@ -62,16 +44,6 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 - Fully documented with architecture diagram, detailed ops log, and enforcement validation screenshots.
 
 🔗 [View Repo](https://github.com/Justin-Sniesak/kubernetes-cilium-zerotrust-architecture)
-
----
-
-### 📚 Systematic Go
-**Stack:** Golang, MacOS
-- Structured Go learning repository: fundamentals → intermediate → advanced
-- Demonstrates CLI tooling (tax/tip calculator with closures), structs, methods, and higher-order functions
-- 🧾 Full logs, screenshots, and debugging notes across 30+ exercises
-
-🔗 [View Repo](https://github.com/Justin-Sniesak/Golang)
 
 ---
 
