@@ -34,15 +34,6 @@ Stack: Go · Docker · GitHub Actions · GCP Artifact Registry · GKE · ArgoCD
 
 ---
 
-### 🧠 Platform Engineering Lab  
-Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox   
-- Built multi-namespace Kubernetes environment in Minikube on bare-metal Ubuntu, integrated with GCP and ProxMox for hybrid operations. Implemented Istio, RBAC, and Zero-Trust controls with full observability.
-- ⏱️ Terraform cut provisioning from 6 h → 5 m | 📊 MTTR reduced ~50% | 🧾 Fully documented ops logs   
-
-🔗 [View Repo](https://github.com/Justin-Sniesak/Platform-Engineering-Lab)
-
----
-
 ### ☁️ AWS Hybrid Cloud + DataDog Migration  
 **Stack:** AWS, ProxMox, Terraform, WireGuard, DataDog, Prometheus
 - Deployed site-to-site VPN and migrated observability from Prometheus → DataDog in 13 hours.  
@@ -74,7 +65,7 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ---
 
-### 📚 Systematic Go Learning
+### 📚 Systematic Go
 **Stack:** Golang, MacOS
 - Structured Go learning repository: fundamentals → intermediate → advanced
 - Demonstrates CLI tooling (tax/tip calculator with closures), structs, methods, and higher-order functions
