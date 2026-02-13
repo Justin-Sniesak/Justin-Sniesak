@@ -84,15 +84,52 @@ Stack: Kubernetes (Minikube), Terraform, Prometheus, GCP, ProxMox
 
 ---
 
-### 🤖 AI Infrastructure & GPU Platform Lab
+### 🔐 Phase 1: High-Performance Networking & L7 Observability
 
-**Stack:** Kubernetes (Kubeadm) · OrbStack · Cilium (eBPF) · Run:ai (H100) · Hubble · Bash 
-- Implemented Cilium eBPF for strict identity-based networking and Zero-Trust egress policies; verified kernel-level drops of unauthorized C2C and exfiltration traffic.
-- Virtualized 8x NVIDIA H100 GPU nodes via Run:ai; validated scheduler precision and resource-driven failure states in high-density AI workloads.
-- ⏱️ 100% automated via tested Bash scripts | 🛡️ eBPF-driven Zero-Trust architecture | 🧾 Fully documented with operational logs and Hubble observability receipts.
+**Stack: Kubernetes (kubeadm) · Cilium (eBPF) · Hubble · containerd · Helm**
 
-🔗 [View Repo](https://github.com/Justin-Sniesak/ai-infra-ops)
+- eBPF-Driven Networking: Replaced standard kube-proxy with Cilium in strict eBPF mode, eliminating iptables overhead and reducing latency for high-concurrency inter-node communication.
+
+- L7 Traffic Auditing: Initialized Hubble agents for kernel-level visibility; verified zero-loss gRPC/HTTP traffic flows and established secure port-forwarding for real-time visualization.
+
+- Identity-Based Policy: Traced East-West traffic within the Hubble UX to audit and confirm cryptographic identity-based network policy enforcement.
+
+- 🧾 Validation: Fully documented with 6+ "receipt" screenshots proving connectivity suite success and API query-availability for external monitoring.
+
+🔗 [View Repo](https://github.com/Justin-Sniesak/ai-infra-ops/tree/main/01_cluster_automation)
 
 ---
 
-- All documentation and project sites listed here are automatically generated and deployed via custom GitHub Actions CI/CD pipelines. If it can be automated, it is.
+### 🧠 Phase 2: H100 GPU Simulation & Zero-Trust Hardening
+
+**Stack: Kubernetes · Run:ai (Fake-GPU) · Cilium ZTP · Helm**
+
+- Hardware Virtualization: Orchestrated 8x virtual NVIDIA H100 GPU nodes via Run:ai; applied targeted node labeling to synchronize inventory metadata and validate scheduler precision.
+
+- Zero-Trust Egress (ZTP): Injected Cilium Network Policies to enforce a "deny-by-default" posture; verified kernel-level drops of unauthorized egress traffic to block data exfiltration and C2C communication.
+
+- Stress-Test Validation: Executed cudatestpod deployments and intentionally over-requested resources to verify expected scheduler failure states and resource isolation.
+
+- 🧾 Operational Audit: Conducted full egress security audits and documented successful container runtime initialization across the simulated fleet.
+
+🔗 [View Repo](https://github.com/Justin-Sniesak/ai-infra-ops/tree/main/02_h100_cluster_simulation)
+
+---
+
+### 🚀 Hyperscale GPU Orchestration & Control Plane Hardening (Phase 3)
+
+**Stack: Kubernetes (KWOK) · Bash · Linux Kernel Tuning · etcd · Helm · NVIDIA/AMD/Intel GPU Fleet**
+
+- Engineered a 700+ line idempotent hydration engine to simulate a Tier-1 hyperscale environment: 2,000 nodes and 20,000 pods on a single workstation.
+
+- Kernel-Level Hardening: Identified and mitigated host-level saturation by tuning sysctl and ulimit (1M+ file descriptors, 500k+ inotify watches) to maintain OS stability under extreme I/O.
+
+- Control Plane Optimization: Resolved etcd "death spirals" by refactoring the quota-backend to 6Gi and tuning API Server mutation limits to survive the hydration of 20k concurrent objects.
+
+- Heterogeneous Fleet Management: Automated the lifecycle of 20 distinct GPU architectures across NVIDIA, AMD, and Intel; built surgical cleanup logic to prevent ClusterRole and DeviceClass collisions during multi-vendor operator transitions.
+
+- 🧾 Evidence-Based Engineering: Generated 40+ automated "receipts" (logs) validating node-level inventory and pod-level resource mapping across the entire 2k-node fleet.
+
+🔗 [View Repo](https://github.com/Justin-Sniesak/ai-infra-ops/tree/main/03_hyperscale_GPU)
+
+### All documentation and project sites listed here are automatically generated and deployed via custom GitHub Actions CI/CD pipelines. If it can be automated, it is.
