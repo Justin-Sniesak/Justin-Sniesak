@@ -6,11 +6,11 @@
 ## 🧩 About Me  
 ## Hi, I'm Justin 👋 
 
-The Scale: Managed 5,000+ server fleets (RHEL/Ubuntu) and currently architecting 2,000-node hyperscale AI simulations.
+Infrastructure engineer focused on large-scale systems, Kubernetes control plane behavior, and compute infrastructure under real-world conditions.
 
-Current Focus: Hardening the AI data plane using Go, Cilium (eBPF), and GPU-orchestration frameworks like Run:ai.
+Experience operating 5,000+ node production environments and building hyperscale simulation platforms (2,000 nodes / 20,000 pods) to validate system behavior under load.
 
-The Philosophy: Build for the mission. I prioritize zero-trust security, deep observability, and automation that eliminates "noise."
+Current work centers on eBPF-based networking (Cilium), GPU orchestration, and failure-aware infrastructure automation — with an emphasis on verifying behavior at the dataplane and control plane, not assuming it.
 
 - **Languages:** Go (Golang), Bash, YAML 
 - **Platform:** GPU Orchestration, Run:ai, Kubernetes (GKE, kubeadm, KWOK)
