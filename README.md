@@ -1,5 +1,5 @@
 # 👨‍💻 Justin Sniesak  
-**Senior Site Reliability Engineer | AI Infrastructure, Go, Cilium (eBPF), K8s | 5k+ Node Scale**  
+**Staff Infrastructure Engineer | Kubernetes, Compute Platforms, Large-Scale Systems | Cilium (eBPF) | 5k+ Node Scale**  
 
 ---
 
