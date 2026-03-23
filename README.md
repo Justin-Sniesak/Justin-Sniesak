@@ -4,7 +4,6 @@
 ---
 
 ## 🧩 About Me  
-## Hi, I'm Justin 👋 
 
 Infrastructure engineer focused on large-scale systems, Kubernetes control plane behavior, and compute infrastructure under real-world conditions.
 
